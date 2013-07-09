@@ -1,0 +1,86 @@
+<document-node type="text" count="1">
+  <element name="document-node" type="text" count="1">
+    <attribute name="type" type="category" count="1">
+      <entry count="1">text</entry>
+    </attribute>
+    <attribute name="count" type="integer" count="1" min="37014" max="37014"/>
+    <element name="element" type="text" count="1">
+      <attribute name="name" type="category" count="1">
+        <entry count="1">NewReleaseMessage</entry>
+      </attribute>
+      <attribute name="type" type="category" count="1">
+        <entry count="1">text</entry>
+      </attribute>
+      <attribute name="count" type="integer" count="1" min="37014" max="37014"/>
+      <element name="attribute" type="text" count="3">
+        <attribute name="name" type="category" count="3">
+          <entry count="1">schemaLocation</entry>
+          <entry count="1">MessageSchemaVersionId</entry>
+          <entry count="1">LanguageAndScriptCode</entry>
+        </attribute>
+        <attribute name="type" type="category" count="3">
+          <entry count="3">category</entry>
+        </attribute>
+        <attribute name="count" type="integer" count="3" min="37014" max="37014"/>
+        <element name="entry" type="none" count="5">
+          <attribute name="count" type="integer" count="5" min="16952" max="37014"/>
+          <text type="category" count="5">
+            <entry count="1">http://ddex.net/xml/2011/ern-main/33 http://ddex.net/xml/2011/ern-main/33/ern-main.xsd</entry>
+            <entry count="1">http://ddex.net/xml/ern/341 http://ddex.net/xml/ern/341/release-notification.xsd</entry>
+            <entry count="1">2011/ernm/33</entry>
+            <entry count="1">ern/341</entry>
+            <entry count="1">en</entry>
+          </text>
+        </element>
+      </element>
+      <element name="element" type="text" count="2">
+        <attribute name="name" type="category" count="2">
+          <entry count="1">UpdateIndicator</entry>
+          <entry count="1">ResourceList</entry>
+        </attribute>
+        <attribute name="type" type="category" count="2">
+          <entry count="1">none</entry>
+          <entry count="1">text</entry>
+        </attribute>
+        <attribute name="count" type="integer" count="2" min="37014" max="37014"/>
+        <element name="text" type="text" count="1">
+          <attribute name="type" type="category" count="1">
+            <entry count="1">category</entry>
+          </attribute>
+          <attribute name="count" type="integer" count="1" min="37014" max="37014"/>
+          <element name="entry" type="none" count="2">
+            <attribute name="count" type="integer" count="2" min="7192" max="29822"/>
+            <text type="category" count="2">
+              <entry count="1">OriginalMessage</entry>
+              <entry count="1">UpdateMessage</entry>
+            </text>
+          </element>
+        </element>
+        <element name="element" type="text" count="1">
+          <attribute name="name" type="category" count="1">
+            <entry count="1">SoundRecording</entry>
+          </attribute>
+          <attribute name="type" type="category" count="1">
+            <entry count="1">text</entry>
+          </attribute>
+          <attribute name="count" type="integer" count="1" min="433023" max="433023"/>
+          <element name="element" type="text" count="1">
+            <attribute name="name" type="category" count="1">
+              <entry count="1">Duration</entry>
+            </attribute>
+            <attribute name="type" type="category" count="1">
+              <entry count="1">none</entry>
+            </attribute>
+            <attribute name="count" type="integer" count="1" min="433023" max="433023"/>
+            <element name="text" type="none" count="1">
+              <attribute name="type" type="category" count="1">
+                <entry count="1">text</entry>
+              </attribute>
+              <attribute name="count" type="integer" count="1" min="433023" max="433023"/>
+            </element>
+          </element>
+        </element>
+      </element>
+    </element>
+  </element>
+</document-node>

@@ -1,0 +1,26 @@
+<database>
+  <databaseproperties>
+    <name>books-why-no-so-long</name>
+    <size>6042 Bytes</size>
+    <nodes>55</nodes>
+    <documents>1</documents>
+    <binaries>0</binaries>
+    <timestamp>2013-04-04-13-49-28</timestamp>
+  </databaseproperties>
+  <resourceproperties>
+    <inputpath>/home/badrit/Desktop/i4Basex_v2/resources/dbs/books.xml</inputpath>
+    <inputsize>847 Bytes</inputsize>
+    <timestamp>2013-02-05-14-46-40</timestamp>
+    <encoding>UTF-8</encoding>
+    <whitespacechopping>ON</whitespacechopping>
+  </resourceproperties>
+  <indexes>
+    <uptodate>true</uptodate>
+    <textindex>ON</textindex>
+    <attributeindex>ON</attributeindex>
+    <fulltextindex>OFF</fulltextindex>
+    <updindex>OFF</updindex>
+    <maxcats>100</maxcats>
+    <maxlen>96</maxlen>
+  </indexes>
+</database>

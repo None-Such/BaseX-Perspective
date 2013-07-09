@@ -1,0 +1,26 @@
+<database>
+  <databaseproperties>
+    <name>books</name>
+    <size>6055 Bytes</size>
+    <nodes>55</nodes>
+    <documents>1</documents>
+    <binaries>0</binaries>
+    <timestamp>2013-06-13-18-18-02</timestamp>
+  </databaseproperties>
+  <resourceproperties>
+    <inputpath>/home/badrit/work/metaHeuristica/i4Basex_v2/resources/dbs/books.xml</inputpath>
+    <inputsize>847 Bytes</inputsize>
+    <timestamp>2013-02-05-14-46-40</timestamp>
+    <encoding>UTF-8</encoding>
+    <whitespacechopping>ON</whitespacechopping>
+  </resourceproperties>
+  <indexes>
+    <uptodate>true</uptodate>
+    <textindex>ON</textindex>
+    <attributeindex>ON</attributeindex>
+    <fulltextindex>OFF</fulltextindex>
+    <updindex>OFF</updindex>
+    <maxcats>100</maxcats>
+    <maxlen>96</maxlen>
+  </indexes>
+</database>

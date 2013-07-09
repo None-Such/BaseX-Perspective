@@ -1,0 +1,258 @@
+g.node {
+  cursor: pointer;
+}
+
+.node circle {
+  stroke: #E6E6E6;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+  fill: blue;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+.countTextBox,
+.nameTextBox {
+  fill: white;
+  opacity: .75;
+}
+
+.countText {
+  fill: grey !important;
+  fill-opacity: 1 !important;
+}
+
+.controls {
+  cursor: pointer;
+  color: blue;
+}
+
+.leaf {
+  fill: #525252 !important;
+}
+
+.attr {
+  fill: green !important;
+}
+
+#treeChart, #side-bar, #info{
+  overflow: auto;
+}
+
+/*Top Scrol*/
+#topScroll{
+  display: none;
+}
+#topScroll, #dummyContent {
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+#dummyContent{
+  height: 1px;
+  visibility: hidden;
+}
+
+#side-bar {
+  height: 1020px;
+  width: 175px;
+}
+
+#treeChart #classic-tree, #info {
+  height: 1020px;
+}
+
+#info {
+  padding-left: 20px;
+}
+
+.controls.btn.btn-link {
+  text-decoration: none;
+}
+
+/* Fix for the toggle side-bar span */
+#side-bar-control {
+  margin-left: 0px;
+  width: 0px;
+  float: right;
+}
+
+.hidden-side-bar {
+  width: 30px !important;
+}
+
+#side-bar-control{
+  width: 0px;
+}
+
+.hidden-side-bar-control {
+  width: 0px !important;
+}
+
+#side-bar-contents {
+  width: 90%;
+  float: left;
+}
+
+#toggleSidebar {
+  background-image: url(../img/show-less.png);
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  margin-top: 6px;
+  margin-left: 4px;
+  margin-right: 14px;
+  float: right;
+}
+
+#toggleSidebar.more {
+  background-image: url(../img/show-more.png) !important;
+  margin-right: 7px;
+}
+
+#content {
+  margin-left: 2px !important;
+  height: 1020px;
+} 
+
+#logo {
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.bordered {
+  border: 1px solid #E3E3E3;
+}
+
+.bordered-right {
+  border-right: 1px solid #E3E3E3;
+}
+
+#dbs-accordions {
+  margin-left: 15px;
+}
+
+.well {
+  margin-bottom: 5px;
+}
+
+.info-title {
+  font-size: 14px;
+}
+
+.well {
+  height: 25px;
+}
+
+#elementsAndAttributes, #elementsOnly {
+  width: 20px;
+}
+
+.facets-controls-div {
+  margin-left: 20px;
+  display: none;
+}
+
+.container-fluid {
+  padding-left: 0px !important;
+}
+
+#empty-content {
+  font-size: 60px;
+  text-align: center;
+  color: lightgrey;
+  padding-top: 450px;
+}
+
+.navbar-inner {
+  min-height: 25px;
+  height: 25px;
+}
+
+.navbar .brand {
+  padding: 3px 13px 5px;
+  margin-left: -20px;
+  font-size: 17px;
+}
+
+#query textarea{
+  min-width: 300px;
+}
+
+
+
+#xquery-textarea {
+  margin-top: 10px;
+  float: left;
+}
+
+#xquery-textarea{
+  width: 70% !important;
+}
+
+#xquery-textarea {
+  display: inline-block;
+}
+
+#query-response-codemirror {
+  margin: 10px;
+  /*float: right;*/
+}
+
+#query-response-codemirror, #cheat-sheet, #query-response-ace-editor {
+  font-size: 13px;/* To solve line alignments of code with linenumebrs*/
+}
+
+#query {
+  margin: 20px;
+}
+
+.CodeMirror {
+  /*height: 424px; */
+  border: 1px solid #E3E3E3;
+}
+.codemirror-ui-button-frame {
+  margin-top: 19px;
+}
+
+.error {
+  color: red !important;
+}
+
+#ace-editor { 
+  border: 1px solid #E3E3E3;
+  height: 325px;
+}
+
+#ace-toolbar {
+  margin-top: 19px;
+  background-color: #EEEEEE;
+  border-top: 1px solid #E3E3E3;
+  border-left: 1px solid #E3E3E3;
+  border-right: 1px solid #E3E3E3;
+}
+
+.toolbar {
+  display: inline-block;
+  margin-left: 5px;
+  padding: 2px;
+}
+
+.toolbar select {
+  margin-bottom: 0px;
+}
+
+.toolbar input[type='checkbox'] {
+  margin-bottom: 8px;
+}
+
+#classic-tree {
+  overflow: auto;
+}

@@ -1,0 +1,43 @@
+<document-node type="text" count="1">
+  <comment type="category" count="1">
+    <entry count="1"> Edited by XMLSpy® </entry>
+  </comment>
+  <element name="bookstore" type="text" count="1">
+    <element name="Book" type="text" count="4">
+      <attribute name="category" type="category" count="4">
+        <entry count="1">COOKING</entry>
+        <entry count="1">CHILDREN</entry>
+        <entry count="2">WEB</entry>
+      </attribute>
+      <element name="title" type="none" count="4">
+        <attribute name="lang" type="category" count="4">
+          <entry count="4">en</entry>
+        </attribute>
+        <text type="category" count="4">
+          <entry count="1">Everyday Italian</entry>
+          <entry count="1">Harry Potter</entry>
+          <entry count="1">XQuery Kick Start</entry>
+          <entry count="1">Learning XML</entry>
+        </text>
+      </element>
+      <element name="author" type="none" count="8">
+        <text type="category" count="8">
+          <entry count="1">Giada De Laurentiis</entry>
+          <entry count="1">J K. Rowling</entry>
+          <entry count="1">James McGovern</entry>
+          <entry count="1">Per Bothner</entry>
+          <entry count="1">Kurt Cagle</entry>
+          <entry count="1">James Linn</entry>
+          <entry count="1">Vaidyanathan Nagarajan</entry>
+          <entry count="1">Erik T. Ray</entry>
+        </text>
+      </element>
+      <element name="year" type="none" count="4">
+        <text type="integer" count="4" min="2003" max="2005"/>
+      </element>
+      <element name="price" type="none" count="4">
+        <text type="double" count="4" min="29.99" max="49.99"/>
+      </element>
+    </element>
+  </element>
+</document-node>

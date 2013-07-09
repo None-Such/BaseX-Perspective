@@ -1,0 +1,1646 @@
+<document-node type="text" count="1">
+  <element name="site" type="text" count="1">
+    <element name="regions" type="text" count="1">
+      <element name="africa" type="text" count="1">
+        <element name="item" type="text" count="1">
+          <attribute name="id" type="category" count="1">
+            <entry count="1">item0</entry>
+          </attribute>
+          <element name="location" type="none" count="1">
+            <text type="category" count="1">
+              <entry count="1">United States</entry>
+            </text>
+          </element>
+          <element name="quantity" type="none" count="1">
+            <text type="integer" count="1" min="1" max="1"/>
+          </element>
+          <element name="name" type="none" count="1">
+            <text type="category" count="1">
+              <entry count="1">duteous nine eighteen</entry>
+            </text>
+          </element>
+          <element name="payment" type="none" count="1">
+            <text type="category" count="1">
+              <entry count="1">Creditcard</entry>
+            </text>
+          </element>
+          <element name="description" type="text" count="1">
+            <element name="parlist" type="text" count="1">
+              <element name="listitem" type="text" count="2">
+                <element name="text" type="text" count="2">
+                  <text type="text" count="2"/>
+                  <element name="keyword" type="none" count="1">
+                    <text type="category" count="1">
+                      <entry count="1">officer embrace such fears distinction attires</entry>
+                    </text>
+                  </element>
+                </element>
+              </element>
+            </element>
+          </element>
+          <element name="shipping" type="none" count="1">
+            <text type="category" count="1">
+              <entry count="1">Will ship internationally, See description for charges</entry>
+            </text>
+          </element>
+          <element name="incategory" type="none" count="5">
+            <attribute name="category" type="category" count="5">
+              <entry count="5">category0</entry>
+            </attribute>
+          </element>
+          <element name="mailbox" type="text" count="1">
+            <element name="mail" type="text" count="1">
+              <element name="from" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">Dominic Takano mailto:Takano@yahoo.com</entry>
+                </text>
+              </element>
+              <element name="to" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">Mechthild Renear mailto:Renear@acm.org</entry>
+                </text>
+              </element>
+              <element name="date" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">10/12/1999</entry>
+                </text>
+              </element>
+              <element name="text" type="text" count="1">
+                <text type="text" count="2"/>
+                <element name="emph" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">armed</entry>
+                  </text>
+                </element>
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+      <element name="asia" type="text" count="1">
+        <element name="item" type="text" count="2">
+          <attribute name="id" type="category" count="2">
+            <entry count="1">item1</entry>
+            <entry count="1">item2</entry>
+          </attribute>
+          <element name="location" type="none" count="2">
+            <text type="category" count="2">
+              <entry count="1">United States</entry>
+              <entry count="1">Denmark</entry>
+            </text>
+          </element>
+          <element name="quantity" type="none" count="2">
+            <text type="integer" count="2" min="1" max="1"/>
+          </element>
+          <element name="name" type="none" count="2">
+            <text type="category" count="2">
+              <entry count="1">great</entry>
+              <entry count="1">scarce brook</entry>
+            </text>
+          </element>
+          <element name="payment" type="none" count="2">
+            <text type="category" count="1">
+              <entry count="1">Money order, Cash</entry>
+            </text>
+          </element>
+          <element name="description" type="text" count="2">
+            <element name="text" type="text" count="1">
+              <text type="text" count="2"/>
+              <element name="bold" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">spirit model favour disposition</entry>
+                </text>
+              </element>
+            </element>
+            <element name="parlist" type="text" count="1">
+              <element name="listitem" type="text" count="5">
+                <element name="text" type="text" count="3">
+                  <text type="text" count="6"/>
+                  <element name="keyword" type="none" count="2">
+                    <text type="category" count="2">
+                      <entry count="1">preparation rejoice</entry>
+                      <entry count="1">season presently victory women beating</entry>
+                    </text>
+                  </element>
+                  <element name="emph" type="none" count="1">
+                    <text type="category" count="1">
+                      <entry count="1">untruths misgives choughs mew here garments tenfold</entry>
+                    </text>
+                  </element>
+                  <element name="bold" type="none" count="1">
+                    <text type="category" count="1">
+                      <entry count="1">naturally sanctuary riddle exile coming awake senseless chance famous albans</entry>
+                    </text>
+                  </element>
+                </element>
+                <element name="parlist" type="text" count="2">
+                  <element name="listitem" type="text" count="5">
+                    <element name="text" type="text" count="5">
+                      <text type="text" count="10"/>
+                      <element name="bold" type="none" count="2">
+                        <text type="category" count="2">
+                          <entry count="1">friar prophetess</entry>
+                          <entry count="1">sold</entry>
+                        </text>
+                      </element>
+                      <element name="keyword" type="none" count="3">
+                        <text type="category" count="3">
+                          <entry count="1">tract element sails course placed fouler four plac joint</entry>
+                          <entry count="1">cimber paper admittance tread character</entry>
+                          <entry count="1">transformed nourish breeds north</entry>
+                        </text>
+                      </element>
+                      <element name="emph" type="none" count="2">
+                        <text type="category" count="2">
+                          <entry count="1">preventions spurr edmund drunk how faction quickly bolingbroke painfully</entry>
+                          <entry count="1">cars livery stand</entry>
+                        </text>
+                      </element>
+                    </element>
+                  </element>
+                </element>
+              </element>
+            </element>
+          </element>
+          <element name="shipping" type="none" count="2">
+            <text type="category" count="2">
+              <entry count="2">Will ship internationally</entry>
+            </text>
+          </element>
+          <element name="incategory" type="none" count="8">
+            <attribute name="category" type="category" count="8">
+              <entry count="8">category0</entry>
+            </attribute>
+          </element>
+          <element name="mailbox" type="text" count="2">
+            <element name="mail" type="text" count="3">
+              <element name="from" type="none" count="3">
+                <text type="category" count="3">
+                  <entry count="1">Fumitaka Cenzer mailto:Cenzer@savera.com</entry>
+                  <entry count="1">Papa Godskesen mailto:Godskesen@uwindsor.ca</entry>
+                  <entry count="1">Aspi L'Ecuyer mailto:L'Ecuyer@intersys.com</entry>
+                </text>
+              </element>
+              <element name="to" type="none" count="3">
+                <text type="category" count="3">
+                  <entry count="1">Lanju Takano mailto:Takano@itc.it</entry>
+                  <entry count="1">Ioana Blumberg mailto:Blumberg@conclusivestrategies.com</entry>
+                  <entry count="1">Lesley Jeris mailto:Jeris@zambeel.com</entry>
+                </text>
+              </element>
+              <element name="date" type="none" count="3">
+                <text type="category" count="3">
+                  <entry count="1">02/24/2000</entry>
+                  <entry count="1">08/02/2001</entry>
+                  <entry count="1">10/09/1998</entry>
+                </text>
+              </element>
+              <element name="text" type="text" count="3">
+                <text type="text" count="4"/>
+                <element name="keyword" type="none" count="2">
+                  <text type="text" count="2"/>
+                </element>
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+      <element name="australia" type="text" count="1">
+        <element name="item" type="text" count="2">
+          <attribute name="id" type="category" count="2">
+            <entry count="1">item3</entry>
+            <entry count="1">item4</entry>
+          </attribute>
+          <element name="location" type="none" count="2">
+            <text type="category" count="2">
+              <entry count="1">Uzbekistan</entry>
+              <entry count="1">United States</entry>
+            </text>
+          </element>
+          <element name="quantity" type="none" count="2">
+            <text type="integer" count="2" min="1" max="1"/>
+          </element>
+          <element name="name" type="none" count="2">
+            <text type="category" count="2">
+              <entry count="1">abhorr execution beckon rue</entry>
+              <entry count="1">lived unsur</entry>
+            </text>
+          </element>
+          <element name="payment" type="none" count="2">
+            <text type="category" count="2">
+              <entry count="1">Money order, Creditcard, Cash</entry>
+              <entry count="1">Money order, Creditcard, Personal Check</entry>
+            </text>
+          </element>
+          <element name="description" type="text" count="2">
+            <element name="parlist" type="text" count="1">
+              <element name="listitem" type="text" count="2">
+                <element name="text" type="text" count="2">
+                  <element name="keyword" type="none" count="2">
+                    <text type="category" count="2">
+                      <entry count="1">perjur kills insanie unfortunate conjuration deeper confounded belied first guard</entry>
+                      <entry count="1">view presume loggets feed</entry>
+                    </text>
+                  </element>
+                  <text type="text" count="5"/>
+                  <element name="emph" type="none" count="2">
+                    <text type="category" count="2">
+                      <entry count="1">hedge</entry>
+                      <entry count="1">plainness patient</entry>
+                    </text>
+                  </element>
+                </element>
+              </element>
+            </element>
+            <element name="text" type="none" count="1">
+              <text type="text" count="1"/>
+            </element>
+          </element>
+          <element name="shipping" type="none" count="2">
+            <text type="category" count="1">
+              <entry count="1">Will ship only within country</entry>
+            </text>
+          </element>
+          <element name="incategory" type="none" count="9">
+            <attribute name="category" type="category" count="9">
+              <entry count="9">category0</entry>
+            </attribute>
+          </element>
+          <element name="mailbox" type="text" count="2">
+            <element name="mail" type="text" count="1">
+              <element name="from" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">Spyrose Marchegay mailto:Marchegay@rutgers.edu</entry>
+                </text>
+              </element>
+              <element name="to" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">Hiu Steckler mailto:Steckler@memphis.edu</entry>
+                </text>
+              </element>
+              <element name="date" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">02/02/2001</entry>
+                </text>
+              </element>
+              <element name="text" type="text" count="1">
+                <text type="text" count="3"/>
+                <element name="emph" type="text" count="1">
+                  <text type="category" count="2">
+                    <entry count="1">claim firmness</entry>
+                    <entry count="1">deny</entry>
+                  </text>
+                  <element name="keyword" type="none" count="1">
+                    <text type="text" count="1"/>
+                  </element>
+                </element>
+                <element name="keyword" type="none" count="1">
+                  <text type="text" count="1"/>
+                </element>
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+      <element name="europe" type="text" count="1">
+        <element name="item" type="text" count="6">
+          <attribute name="id" type="category" count="6">
+            <entry count="1">item5</entry>
+            <entry count="1">item6</entry>
+            <entry count="1">item7</entry>
+            <entry count="1">item8</entry>
+            <entry count="1">item9</entry>
+            <entry count="1">item10</entry>
+          </attribute>
+          <element name="location" type="none" count="6">
+            <text type="category" count="6">
+              <entry count="6">United States</entry>
+            </text>
+          </element>
+          <element name="quantity" type="none" count="6">
+            <text type="integer" count="6" min="1" max="1"/>
+          </element>
+          <element name="name" type="none" count="6">
+            <text type="category" count="6">
+              <entry count="1">wine prevention</entry>
+              <entry count="1">waters derive</entry>
+              <entry count="1">subornation precepts laboured gentleman</entry>
+              <entry count="1">secure desires</entry>
+              <entry count="1">choughs stains</entry>
+              <entry count="1">shall ingenious</entry>
+            </text>
+          </element>
+          <element name="payment" type="none" count="6">
+            <text type="category" count="6">
+              <entry count="2">Money order, Creditcard</entry>
+              <entry count="1">Creditcard, Personal Check</entry>
+              <entry count="1">Money order, Creditcard, Cash</entry>
+              <entry count="1">Personal Check, Cash</entry>
+              <entry count="1">Creditcard, Personal Check, Cash</entry>
+            </text>
+          </element>
+          <element name="description" type="text" count="6">
+            <element name="text" type="text" count="4">
+              <text type="text" count="10"/>
+              <element name="bold" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">editions depart laur hereford richer</entry>
+                </text>
+              </element>
+              <element name="keyword" type="none" count="3">
+                <text type="category" count="3">
+                  <entry count="1">rhyme wonderful attaint</entry>
+                  <entry count="1">attendants themselves spark</entry>
+                  <entry count="1">titles committed god stately</entry>
+                </text>
+              </element>
+              <element name="emph" type="text" count="2">
+                <text type="category" count="3">
+                  <entry count="1">kingly polixenes lodowick flight</entry>
+                  <entry count="1">assigns flesh made his third</entry>
+                  <entry count="1">peril gain they stroke forsworn scape full determin professes commons</entry>
+                </text>
+                <element name="keyword" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">seemeth</entry>
+                  </text>
+                </element>
+              </element>
+            </element>
+            <element name="parlist" type="text" count="2">
+              <element name="listitem" type="text" count="5">
+                <element name="text" type="text" count="5">
+                  <text type="text" count="11"/>
+                  <element name="keyword" type="text" count="3">
+                    <text type="category" count="4">
+                      <entry count="1">considered forc mourning verona</entry>
+                      <entry count="1">main cressid</entry>
+                      <entry count="1">dowry rotted curan press debtor alexandria sugar battle orbed embrac supremacy answering</entry>
+                      <entry count="1">signior satisfaction leads joyful built</entry>
+                    </text>
+                    <element name="emph" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">person whate lily pilgrim flaying therefore meantime similes base</entry>
+                      </text>
+                    </element>
+                  </element>
+                  <element name="emph" type="none" count="2">
+                    <text type="text" count="2"/>
+                  </element>
+                  <element name="bold" type="text" count="1">
+                    <text type="category" count="2">
+                      <entry count="1">senators browsing monsters ear players moreover</entry>
+                      <entry count="1">banquet</entry>
+                    </text>
+                    <element name="emph" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">sir hor shape suspicious taffeta</entry>
+                      </text>
+                    </element>
+                  </element>
+                </element>
+              </element>
+            </element>
+          </element>
+          <element name="shipping" type="none" count="6">
+            <text type="category" count="5">
+              <entry count="1">Will ship internationally, See description for charges</entry>
+              <entry count="2">See description for charges</entry>
+              <entry count="1">Will ship only within country, Will ship internationally, Buyer pays fixed shipping charges</entry>
+              <entry count="1">Will ship only within country, Buyer pays fixed shipping charges, See description for charges</entry>
+            </text>
+          </element>
+          <element name="incategory" type="none" count="12">
+            <attribute name="category" type="category" count="12">
+              <entry count="12">category0</entry>
+            </attribute>
+          </element>
+          <element name="mailbox" type="text" count="6">
+            <element name="mail" type="text" count="9">
+              <element name="from" type="none" count="9">
+                <text type="category" count="9">
+                  <entry count="1">Ulf Tiskin mailto:Tiskin@uic.edu</entry>
+                  <entry count="1">Gina Spinelli mailto:Spinelli@okcu.edu</entry>
+                  <entry count="1">Ernst Parhami mailto:Parhami@uwindsor.ca</entry>
+                  <entry count="1">Bett Swoboda mailto:Swoboda@upenn.edu</entry>
+                  <entry count="1">Susanna Mapelli mailto:Mapelli@broadquest.com</entry>
+                  <entry count="1">Rense Thistlewaite mailto:Thistlewaite@oracle.com</entry>
+                  <entry count="1">Christ Rosengren mailto:Rosengren@msstate.edu</entry>
+                  <entry count="1">Yali Benaini mailto:Benaini@ernet.in</entry>
+                  <entry count="1">Joao Glew mailto:Glew@ucd.ie</entry>
+                </text>
+              </element>
+              <element name="to" type="none" count="9">
+                <text type="category" count="9">
+                  <entry count="1">Rasiah Ranai mailto:Ranai@broadquest.com</entry>
+                  <entry count="1">Weizhen Sogomonyan mailto:Sogomonyan@njit.edu</entry>
+                  <entry count="1">Kiriakos Baumert mailto:Baumert@itc.it</entry>
+                  <entry count="1">Urs Petre mailto:Petre@filelmaker.com</entry>
+                  <entry count="1">Zhigang Antonisse mailto:Antonisse@edu.au</entry>
+                  <entry count="1">Youngmok Gunal mailto:Gunal@gmu.edu</entry>
+                  <entry count="1">Tahsin Bultitude mailto:Bultitude@zambeel.com</entry>
+                  <entry count="1">Trung Seress mailto:Seress@rwth-aachen.de</entry>
+                  <entry count="1">Marijke Nakatake mailto:Nakatake@temple.edu</entry>
+                </text>
+              </element>
+              <element name="date" type="none" count="9">
+                <text type="category" count="9">
+                  <entry count="1">12/03/1998</entry>
+                  <entry count="1">02/04/2001</entry>
+                  <entry count="1">11/05/1999</entry>
+                  <entry count="1">03/13/1999</entry>
+                  <entry count="1">07/24/2000</entry>
+                  <entry count="1">10/01/1998</entry>
+                  <entry count="1">04/02/2001</entry>
+                  <entry count="1">07/27/2000</entry>
+                  <entry count="1">01/20/1999</entry>
+                </text>
+              </element>
+              <element name="text" type="text" count="9">
+                <text type="text" count="15"/>
+                <element name="keyword" type="none" count="3">
+                  <text type="category" count="3">
+                    <entry count="1">mad withdraw mother beastly worthiest twice girl indifferent suit</entry>
+                    <entry count="1">paris commodity faded fall ugly honester smile</entry>
+                    <entry count="1">heathen</entry>
+                  </text>
+                </element>
+                <element name="emph" type="text" count="3">
+                  <text type="text" count="4"/>
+                  <element name="bold" type="none" count="1">
+                    <text type="text" count="1"/>
+                  </element>
+                </element>
+                <element name="bold" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">inherits</entry>
+                  </text>
+                </element>
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+      <element name="namerica" type="text" count="1">
+        <element name="item" type="text" count="10">
+          <attribute name="id" type="category" count="10">
+            <entry count="1">item11</entry>
+            <entry count="1">item12</entry>
+            <entry count="1">item13</entry>
+            <entry count="1">item14</entry>
+            <entry count="1">item15</entry>
+            <entry count="1">item16</entry>
+            <entry count="1">item17</entry>
+            <entry count="1">item18</entry>
+            <entry count="1">item19</entry>
+            <entry count="1">item20</entry>
+          </attribute>
+          <element name="location" type="none" count="10">
+            <text type="category" count="10">
+              <entry count="10">United States</entry>
+            </text>
+          </element>
+          <element name="quantity" type="none" count="10">
+            <text type="integer" count="10" min="1" max="1"/>
+          </element>
+          <element name="name" type="none" count="10">
+            <text type="category" count="10">
+              <entry count="1">heart</entry>
+              <entry count="1">lessens promise</entry>
+              <entry count="1">nearer conquerors over pays</entry>
+              <entry count="1">abominable confession greet heaven</entry>
+              <entry count="1">mole bonfires</entry>
+              <entry count="1">compact paper</entry>
+              <entry count="1">sake</entry>
+              <entry count="1">strive octavius seals happiness</entry>
+              <entry count="1">gaze wages proving english</entry>
+              <entry count="1">practice space commune women</entry>
+            </text>
+          </element>
+          <element name="payment" type="none" count="10">
+            <text type="category" count="10">
+              <entry count="1">Creditcard, Personal Check, Cash</entry>
+              <entry count="1">Money order, Creditcard, Personal Check</entry>
+              <entry count="2">Money order, Personal Check</entry>
+              <entry count="2">Creditcard, Cash</entry>
+              <entry count="1">Personal Check</entry>
+              <entry count="1">Cash</entry>
+              <entry count="1">Money order, Personal Check, Cash</entry>
+              <entry count="1">Money order</entry>
+            </text>
+          </element>
+          <element name="description" type="text" count="10">
+            <element name="text" type="text" count="9">
+              <element name="keyword" type="none" count="6">
+                <text type="category" count="6">
+                  <entry count="1">looks lifted instruct seize withal offer marseilles sauce mine bail grows difficulty quando</entry>
+                  <entry count="1">lawless frederick creditors dart cousin</entry>
+                  <entry count="1">traitorously lake rose impatient</entry>
+                  <entry count="1">view preventions arm conqueror express gold simular firm society driven difference</entry>
+                  <entry count="1">lovers frustrate spleen</entry>
+                  <entry count="1">dotes</entry>
+                </text>
+              </element>
+              <text type="text" count="20"/>
+              <element name="emph" type="text" count="4">
+                <text type="text" count="6"/>
+                <element name="keyword" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">there jig gathered lost counsels vulcan rags thing whiles goose toryne rascal presume bolster</entry>
+                  </text>
+                </element>
+                <element name="bold" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">case hair proper indictment dream</entry>
+                  </text>
+                </element>
+              </element>
+              <element name="bold" type="text" count="6">
+                <text type="category" count="6">
+                  <entry count="1">given minds transparent scholar street betumbled gods lancaster infected fry</entry>
+                  <entry count="1">medicine</entry>
+                  <entry count="1">midnight pedro unloose</entry>
+                  <entry count="1">women forbid rank misadventur push</entry>
+                  <entry count="1">drunk study</entry>
+                  <entry count="1">web roses theft wherein</entry>
+                </text>
+                <element name="emph" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">hate spark</entry>
+                  </text>
+                </element>
+              </element>
+            </element>
+            <element name="parlist" type="text" count="1">
+              <element name="listitem" type="text" count="2">
+                <element name="text" type="text" count="2">
+                  <text type="text" count="8"/>
+                  <element name="emph" type="none" count="4">
+                    <text type="text" count="4"/>
+                  </element>
+                  <element name="bold" type="text" count="2">
+                    <text type="category" count="3">
+                      <entry count="1">frailty</entry>
+                      <entry count="1">venetian</entry>
+                      <entry count="1">painted have</entry>
+                    </text>
+                    <element name="keyword" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">displeasure sow law foolish strongly grieve head presently</entry>
+                      </text>
+                    </element>
+                  </element>
+                  <element name="keyword" type="none" count="1">
+                    <text type="text" count="1"/>
+                  </element>
+                </element>
+              </element>
+            </element>
+          </element>
+          <element name="shipping" type="none" count="10">
+            <text type="category" count="10">
+              <entry count="1">Will ship only within country, Buyer pays fixed shipping charges, See description for charges</entry>
+              <entry count="1">Will ship only within country, Will ship internationally, See description for charges</entry>
+              <entry count="2">See description for charges</entry>
+              <entry count="1">Buyer pays fixed shipping charges</entry>
+              <entry count="1">Will ship internationally</entry>
+              <entry count="2">Will ship only within country, Will ship internationally</entry>
+              <entry count="1">Buyer pays fixed shipping charges, See description for charges</entry>
+              <entry count="1">Will ship only within country, See description for charges</entry>
+            </text>
+          </element>
+          <element name="incategory" type="none" count="26">
+            <attribute name="category" type="category" count="26">
+              <entry count="26">category0</entry>
+            </attribute>
+          </element>
+          <element name="mailbox" type="text" count="10">
+            <element name="mail" type="text" count="4">
+              <element name="from" type="none" count="4">
+                <text type="category" count="4">
+                  <entry count="1">Arlene Mezei mailto:Mezei@pitt.edu</entry>
+                  <entry count="1">Eckhart Nations mailto:Nations@panasonic.com</entry>
+                  <entry count="1">Shoichi Hjaresen mailto:Hjaresen@ualberta.ca</entry>
+                  <entry count="1">Berthier Peuto mailto:Peuto@unf.edu</entry>
+                </text>
+              </element>
+              <element name="to" type="none" count="4">
+                <text type="category" count="4">
+                  <entry count="1">Lijing Hettesheimer mailto:Hettesheimer@sds.no</entry>
+                  <entry count="1">Win Androutsos mailto:Androutsos@gte.com</entry>
+                  <entry count="1">Venkata Coorg mailto:Coorg@concordia.ca</entry>
+                  <entry count="1">Behzad Picel mailto:Picel@att.com</entry>
+                </text>
+              </element>
+              <element name="date" type="none" count="4">
+                <text type="category" count="4">
+                  <entry count="1">02/25/2000</entry>
+                  <entry count="1">01/19/1998</entry>
+                  <entry count="1">07/18/2001</entry>
+                  <entry count="1">10/20/2000</entry>
+                </text>
+              </element>
+              <element name="text" type="text" count="4">
+                <text type="text" count="10"/>
+                <element name="emph" type="none" count="5">
+                  <text type="category" count="5">
+                    <entry count="1">whate fine</entry>
+                    <entry count="1">crush</entry>
+                    <entry count="1">devis creatures mangled mistake twigs swearing</entry>
+                    <entry count="1">authority grim sent brother sake</entry>
+                    <entry count="1">lifts</entry>
+                  </text>
+                </element>
+                <element name="bold" type="none" count="1">
+                  <text type="text" count="1"/>
+                </element>
+                <element name="keyword" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">rank vizarded serves french yonder</entry>
+                  </text>
+                </element>
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+      <element name="samerica" type="text" count="1">
+        <element name="item" type="text" count="1">
+          <attribute name="id" type="category" count="1">
+            <entry count="1">item21</entry>
+          </attribute>
+          <element name="location" type="none" count="1">
+            <text type="category" count="1">
+              <entry count="1">United States</entry>
+            </text>
+          </element>
+          <element name="quantity" type="none" count="1">
+            <text type="integer" count="1" min="2" max="2"/>
+          </element>
+          <element name="name" type="none" count="1">
+            <text type="category" count="1">
+              <entry count="1">holds perhaps despair amorous</entry>
+            </text>
+          </element>
+          <element name="payment" type="none" count="1">
+            <text type="category" count="1">
+              <entry count="1">Creditcard, Cash</entry>
+            </text>
+          </element>
+          <element name="description" type="text" count="1">
+            <element name="parlist" type="text" count="1">
+              <element name="listitem" type="text" count="2">
+                <element name="text" type="text" count="2">
+                  <text type="text" count="5"/>
+                  <element name="emph" type="none" count="1">
+                    <text type="category" count="1">
+                      <entry count="1">lamb heavy leaves hazard beams corn month</entry>
+                    </text>
+                  </element>
+                  <element name="keyword" type="none" count="2">
+                    <text type="category" count="2">
+                      <entry count="1">sounded instance times quarter deserv preparation</entry>
+                      <entry count="1">lusty humours</entry>
+                    </text>
+                  </element>
+                </element>
+              </element>
+            </element>
+          </element>
+          <element name="shipping" type="none" count="1">
+            <text type="category" count="1">
+              <entry count="1">Will ship internationally, See description for charges</entry>
+            </text>
+          </element>
+          <element name="incategory" type="none" count="5">
+            <attribute name="category" type="category" count="5">
+              <entry count="5">category0</entry>
+            </attribute>
+          </element>
+          <element name="mailbox" type="text" count="1">
+            <element name="mail" type="text" count="2">
+              <element name="from" type="none" count="2">
+                <text type="category" count="2">
+                  <entry count="1">Keith Lampert mailto:Lampert@infomix.com</entry>
+                  <entry count="1">Yeshayahu O'Boyle mailto:O'Boyle@ucsb.edu</entry>
+                </text>
+              </element>
+              <element name="to" type="none" count="2">
+                <text type="category" count="2">
+                  <entry count="1">Jaewon Tassinari mailto:Tassinari@gte.com</entry>
+                  <entry count="1">Derick Takano mailto:Takano@mitre.org</entry>
+                </text>
+              </element>
+              <element name="date" type="none" count="2">
+                <text type="category" count="2">
+                  <entry count="1">11/15/2001</entry>
+                  <entry count="1">01/01/1998</entry>
+                </text>
+              </element>
+              <element name="text" type="text" count="2">
+                <text type="text" count="4"/>
+                <element name="bold" type="none" count="2">
+                  <text type="category" count="2">
+                    <entry count="1">brabantio</entry>
+                    <entry count="1">submits</entry>
+                  </text>
+                </element>
+                <element name="keyword" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">high civil generation surgeon counsel effects clouds haunt prouder cloak down fain perjury</entry>
+                  </text>
+                </element>
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+    </element>
+    <element name="categories" type="text" count="1">
+      <element name="category" type="text" count="1">
+        <attribute name="id" type="category" count="1">
+          <entry count="1">category0</entry>
+        </attribute>
+        <element name="name" type="none" count="1">
+          <text type="category" count="1">
+            <entry count="1">mars club seeking yea</entry>
+          </text>
+        </element>
+        <element name="description" type="text" count="1">
+          <element name="parlist" type="text" count="1">
+            <element name="listitem" type="text" count="3">
+              <element name="parlist" type="text" count="1">
+                <element name="listitem" type="text" count="4">
+                  <element name="text" type="text" count="4">
+                    <text type="text" count="6"/>
+                    <element name="keyword" type="none" count="4">
+                      <text type="category" count="4">
+                        <entry count="1">fishes scroll pray rough tevil lechery</entry>
+                        <entry count="1">noted ruin crosses toil oblivion bottom fellows posture approve kisses fare</entry>
+                        <entry count="1">trojan thunder lights table hail soothsayer course</entry>
+                        <entry count="1">out blush imaginations grace adventure conrade how heard detain</entry>
+                      </text>
+                    </element>
+                    <element name="bold" type="none" count="2">
+                      <text type="category" count="2">
+                        <entry count="1">knave laws sight decreed dispose list shakes neglected scotch like villain lov makes multiplying</entry>
+                        <entry count="1">fires weapon revenue</entry>
+                      </text>
+                    </element>
+                    <element name="emph" type="text" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">witchcraft</entry>
+                      </text>
+                      <element name="keyword" type="none" count="1">
+                        <text type="category" count="1">
+                          <entry count="1">savage</entry>
+                        </text>
+                      </element>
+                    </element>
+                  </element>
+                </element>
+              </element>
+              <element name="text" type="text" count="2">
+                <text type="text" count="6"/>
+                <element name="bold" type="text" count="2">
+                  <text type="category" count="3">
+                    <entry count="1">harry</entry>
+                    <entry count="1">backward</entry>
+                    <entry count="1">disguised oxford</entry>
+                  </text>
+                  <element name="keyword" type="none" count="1">
+                    <text type="category" count="1">
+                      <entry count="1">eleanor untainted once surpris places pursued</entry>
+                    </text>
+                  </element>
+                </element>
+                <element name="keyword" type="none" count="2">
+                  <text type="category" count="2">
+                    <entry count="1">egypt moreover moth plot lap children nut preordinance defend reviv benedick</entry>
+                    <entry count="1">have corn</entry>
+                  </text>
+                </element>
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+    </element>
+    <element name="catgraph" type="text" count="1">
+      <element name="edge" type="none" count="1">
+        <attribute name="from" type="category" count="1">
+          <entry count="1">category0</entry>
+        </attribute>
+        <attribute name="to" type="category" count="1">
+          <entry count="1">category0</entry>
+        </attribute>
+      </element>
+    </element>
+    <element name="people" type="text" count="1">
+      <element name="person" type="text" count="25">
+        <attribute name="id" type="category" count="25">
+          <entry count="1">person0</entry>
+          <entry count="1">person1</entry>
+          <entry count="1">person2</entry>
+          <entry count="1">person3</entry>
+          <entry count="1">person4</entry>
+          <entry count="1">person5</entry>
+          <entry count="1">person6</entry>
+          <entry count="1">person7</entry>
+          <entry count="1">person8</entry>
+          <entry count="1">person9</entry>
+          <entry count="1">person10</entry>
+          <entry count="1">person11</entry>
+          <entry count="1">person12</entry>
+          <entry count="1">person13</entry>
+          <entry count="1">person14</entry>
+          <entry count="1">person15</entry>
+          <entry count="1">person16</entry>
+          <entry count="1">person17</entry>
+          <entry count="1">person18</entry>
+          <entry count="1">person19</entry>
+          <entry count="1">person20</entry>
+          <entry count="1">person21</entry>
+          <entry count="1">person22</entry>
+          <entry count="1">person23</entry>
+          <entry count="1">person24</entry>
+        </attribute>
+        <element name="name" type="none" count="25">
+          <text type="category" count="25">
+            <entry count="1">Huei Demke</entry>
+            <entry count="1">Daishiro Juric</entry>
+            <entry count="1">Kawon Unni</entry>
+            <entry count="1">Ewing Andrade</entry>
+            <entry count="1">Jamaludin Kleiser</entry>
+            <entry count="1">Eliana Ruemmler</entry>
+            <entry count="1">Bassem Nagasaki</entry>
+            <entry count="1">Mehrdad McCay</entry>
+            <entry count="1">Bassem Manderick</entry>
+            <entry count="1">Jarkko Nozawa</entry>
+            <entry count="1">Masanao Marsiglia</entry>
+            <entry count="1">Saul Schaap</entry>
+            <entry count="1">Kishor Monkewich</entry>
+            <entry count="1">Martti Halgason</entry>
+            <entry count="1">Laurian Grass</entry>
+            <entry count="1">Shooichi Oerlemans</entry>
+            <entry count="1">Uzi Atrawala</entry>
+            <entry count="1">Aloys Singleton</entry>
+            <entry count="1">Maha DuBourdieux</entry>
+            <entry count="1">Masaski Carrere</entry>
+            <entry count="1">Nestoras Gausemeier</entry>
+            <entry count="1">Yechezkel Calmet</entry>
+            <entry count="1">Slavian Usery</entry>
+            <entry count="1">Piere Schiex</entry>
+            <entry count="1">Shaoyun Morreau</entry>
+          </text>
+        </element>
+        <element name="emailaddress" type="none" count="25">
+          <text type="category" count="25">
+            <entry count="1">mailto:Demke@uu.se</entry>
+            <entry count="1">mailto:Juric@rwth-aachen.de</entry>
+            <entry count="1">mailto:Unni@llnl.gov</entry>
+            <entry count="1">mailto:Andrade@fsu.edu</entry>
+            <entry count="1">mailto:Kleiser@edu.hk</entry>
+            <entry count="1">mailto:Ruemmler@forth.gr</entry>
+            <entry count="1">mailto:Nagasaki@panasonic.com</entry>
+            <entry count="1">mailto:McCay@acm.org</entry>
+            <entry count="1">mailto:Manderick@uiuc.edu</entry>
+            <entry count="1">mailto:Nozawa@concordia.ca</entry>
+            <entry count="1">mailto:Marsiglia@cas.cz</entry>
+            <entry count="1">mailto:Schaap@forth.gr</entry>
+            <entry count="1">mailto:Monkewich@llnl.gov</entry>
+            <entry count="1">mailto:Halgason@bell-labs.com</entry>
+            <entry count="1">mailto:Grass@yorku.ca</entry>
+            <entry count="1">mailto:Oerlemans@ac.jp</entry>
+            <entry count="1">mailto:Atrawala@cwru.edu</entry>
+            <entry count="1">mailto:Singleton@berkeley.edu</entry>
+            <entry count="1">mailto:DuBourdieux@clustra.com</entry>
+            <entry count="1">mailto:Carrere@lri.fr</entry>
+            <entry count="1">mailto:Gausemeier@versata.com</entry>
+            <entry count="1">mailto:Calmet@yorku.ca</entry>
+            <entry count="1">mailto:Usery@rutgers.edu</entry>
+            <entry count="1">mailto:Schiex@sfu.ca</entry>
+            <entry count="1">mailto:Morreau@ucsb.edu</entry>
+          </text>
+        </element>
+        <element name="address" type="text" count="12">
+          <element name="street" type="none" count="12">
+            <text type="category" count="12">
+              <entry count="1">95 Grinter St</entry>
+              <entry count="1">5 Pinet St</entry>
+              <entry count="1">40 Kipper St</entry>
+              <entry count="1">45 Ratnaker St</entry>
+              <entry count="1">22 Caticha St</entry>
+              <entry count="1">11 Gumm St</entry>
+              <entry count="1">6 Thiria St</entry>
+              <entry count="1">44 Wergeland St</entry>
+              <entry count="1">7 Rein St</entry>
+              <entry count="1">77 Coyle St</entry>
+              <entry count="1">51 Bedard St</entry>
+              <entry count="1">80 Melter St</entry>
+            </text>
+          </element>
+          <element name="city" type="none" count="12">
+            <text type="category" count="12">
+              <entry count="1">Macon</entry>
+              <entry count="1">Athens</entry>
+              <entry count="1">Lyon</entry>
+              <entry count="1">Zihuatenejo</entry>
+              <entry count="1">Phoenix</entry>
+              <entry count="1">Cody</entry>
+              <entry count="1">Denver</entry>
+              <entry count="1">Mobile</entry>
+              <entry count="1">Alexandria</entry>
+              <entry count="1">Great</entry>
+              <entry count="1">Copenhagen</entry>
+              <entry count="1">Ciudad</entry>
+            </text>
+          </element>
+          <element name="country" type="none" count="12">
+            <text type="category" count="12">
+              <entry count="10">United States</entry>
+              <entry count="1">Cook Islands</entry>
+              <entry count="1">Greenland</entry>
+            </text>
+          </element>
+          <element name="zipcode" type="none" count="12">
+            <text type="integer" count="12" min="4" max="33"/>
+          </element>
+          <element name="province" type="none" count="6">
+            <text type="category" count="6">
+              <entry count="1">Vermont</entry>
+              <entry count="1">Illinois</entry>
+              <entry count="1">Alaska</entry>
+              <entry count="1">Montana</entry>
+              <entry count="1">Mississipi</entry>
+              <entry count="1">Oklahoma</entry>
+            </text>
+          </element>
+        </element>
+        <element name="creditcard" type="none" count="13">
+          <text type="category" count="13">
+            <entry count="1">8182 1228 4493 3873</entry>
+            <entry count="1">7833 6950 5399 8913</entry>
+            <entry count="1">6012 3708 3300 9328</entry>
+            <entry count="1">8940 7694 6616 2527</entry>
+            <entry count="1">2447 4672 2532 3021</entry>
+            <entry count="1">8543 4364 4394 3142</entry>
+            <entry count="1">7036 1307 7693 1072</entry>
+            <entry count="1">1021 8216 1485 5908</entry>
+            <entry count="1">1796 7353 7134 5098</entry>
+            <entry count="1">4586 2519 6227 6395</entry>
+            <entry count="1">7501 3122 6462 7866</entry>
+            <entry count="1">1536 3643 2092 5012</entry>
+            <entry count="1">6926 3703 6920 9765</entry>
+          </text>
+        </element>
+        <element name="profile" type="text" count="11">
+          <attribute name="income" type="double" count="11" min="9876" max="57878.5"/>
+          <element name="education" type="none" count="5">
+            <text type="category" count="5">
+              <entry count="2">High School</entry>
+              <entry count="1">Graduate School</entry>
+              <entry count="1">Other</entry>
+              <entry count="1">College</entry>
+            </text>
+          </element>
+          <element name="gender" type="none" count="7">
+            <text type="category" count="7">
+              <entry count="3">male</entry>
+              <entry count="4">female</entry>
+            </text>
+          </element>
+          <element name="business" type="none" count="11">
+            <text type="category" count="11">
+              <entry count="3">No</entry>
+              <entry count="8">Yes</entry>
+            </text>
+          </element>
+          <element name="age" type="none" count="8">
+            <text type="integer" count="8" min="18" max="48"/>
+          </element>
+          <element name="interest" type="none" count="33">
+            <attribute name="category" type="category" count="33">
+              <entry count="33">category0</entry>
+            </attribute>
+          </element>
+        </element>
+        <element name="phone" type="none" count="17">
+          <text type="category" count="17">
+            <entry count="1">+0 (692) 53964736</entry>
+            <entry count="1">+0 (866) 58076283</entry>
+            <entry count="1">+0 (400) 25499686</entry>
+            <entry count="1">+0 (361) 10427629</entry>
+            <entry count="1">+0 (182) 62129440</entry>
+            <entry count="1">+0 (18) 14026838</entry>
+            <entry count="1">+0 (835) 5433372</entry>
+            <entry count="1">+0 (255) 85051213</entry>
+            <entry count="1">+0 (254) 26597439</entry>
+            <entry count="1">+0 (778) 41220156</entry>
+            <entry count="1">+0 (486) 33977729</entry>
+            <entry count="1">+49 (161) 95788409</entry>
+            <entry count="1">+0 (735) 97531072</entry>
+            <entry count="1">+0 (43) 57060411</entry>
+            <entry count="1">+0 (155) 68703448</entry>
+            <entry count="1">+0 (864) 72833728</entry>
+            <entry count="1">+83 (890) 82752371</entry>
+          </text>
+        </element>
+        <element name="homepage" type="none" count="10">
+          <text type="category" count="10">
+            <entry count="1">http://www.rwth-aachen.de/~Juric</entry>
+            <entry count="1">http://www.edu.hk/~Kleiser</entry>
+            <entry count="1">http://www.forth.gr/~Ruemmler</entry>
+            <entry count="1">http://www.panasonic.com/~Nagasaki</entry>
+            <entry count="1">http://www.acm.org/~McCay</entry>
+            <entry count="1">http://www.concordia.ca/~Nozawa</entry>
+            <entry count="1">http://www.llnl.gov/~Monkewich</entry>
+            <entry count="1">http://www.clustra.com/~DuBourdieux</entry>
+            <entry count="1">http://www.lri.fr/~Carrere</entry>
+            <entry count="1">http://www.sfu.ca/~Schiex</entry>
+          </text>
+        </element>
+        <element name="watches" type="text" count="15">
+          <element name="watch" type="none" count="50">
+            <attribute name="open_auction" type="category" count="50">
+              <entry count="7">open_auction2</entry>
+              <entry count="3">open_auction4</entry>
+              <entry count="2">open_auction5</entry>
+              <entry count="9">open_auction6</entry>
+              <entry count="5">open_auction9</entry>
+              <entry count="6">open_auction0</entry>
+              <entry count="5">open_auction7</entry>
+              <entry count="3">open_auction10</entry>
+              <entry count="6">open_auction8</entry>
+              <entry count="2">open_auction3</entry>
+              <entry count="2">open_auction1</entry>
+            </attribute>
+          </element>
+        </element>
+      </element>
+    </element>
+    <element name="open_auctions" type="text" count="1">
+      <element name="open_auction" type="text" count="12">
+        <attribute name="id" type="category" count="12">
+          <entry count="1">open_auction0</entry>
+          <entry count="1">open_auction1</entry>
+          <entry count="1">open_auction2</entry>
+          <entry count="1">open_auction3</entry>
+          <entry count="1">open_auction4</entry>
+          <entry count="1">open_auction5</entry>
+          <entry count="1">open_auction6</entry>
+          <entry count="1">open_auction7</entry>
+          <entry count="1">open_auction8</entry>
+          <entry count="1">open_auction9</entry>
+          <entry count="1">open_auction10</entry>
+          <entry count="1">open_auction11</entry>
+        </attribute>
+        <element name="initial" type="none" count="12">
+          <text type="double" count="12" min="4.12" max="210.62"/>
+        </element>
+        <element name="reserve" type="none" count="6">
+          <text type="double" count="6" min="24.53" max="1540.75"/>
+        </element>
+        <element name="bidder" type="text" count="60">
+          <element name="date" type="none" count="60">
+            <text type="category" count="60">
+              <entry count="1">06/13/2001</entry>
+              <entry count="1">09/18/2000</entry>
+              <entry count="1">01/07/1998</entry>
+              <entry count="1">07/10/2001</entry>
+              <entry count="1">11/12/1998</entry>
+              <entry count="1">10/02/2000</entry>
+              <entry count="1">12/04/1998</entry>
+              <entry count="1">06/22/1999</entry>
+              <entry count="1">12/02/2001</entry>
+              <entry count="1">11/12/2001</entry>
+              <entry count="1">05/21/2001</entry>
+              <entry count="1">12/04/2000</entry>
+              <entry count="1">09/03/2000</entry>
+              <entry count="1">08/18/1998</entry>
+              <entry count="1">06/05/1998</entry>
+              <entry count="1">09/20/1999</entry>
+              <entry count="1">10/03/2001</entry>
+              <entry count="1">02/17/2001</entry>
+              <entry count="1">10/19/1998</entry>
+              <entry count="1">03/11/2001</entry>
+              <entry count="1">04/16/2001</entry>
+              <entry count="1">03/06/1999</entry>
+              <entry count="1">02/01/2000</entry>
+              <entry count="1">01/09/1999</entry>
+              <entry count="1">11/11/2001</entry>
+              <entry count="1">11/19/1998</entry>
+              <entry count="1">04/05/1999</entry>
+              <entry count="1">09/14/1999</entry>
+              <entry count="1">07/07/2000</entry>
+              <entry count="1">08/06/2001</entry>
+              <entry count="1">08/23/1999</entry>
+              <entry count="1">01/23/2000</entry>
+              <entry count="1">10/14/1999</entry>
+              <entry count="1">05/19/1999</entry>
+              <entry count="1">03/27/1999</entry>
+              <entry count="1">04/26/2001</entry>
+              <entry count="1">04/03/1999</entry>
+              <entry count="1">01/21/1999</entry>
+              <entry count="1">11/24/1999</entry>
+              <entry count="1">01/07/2001</entry>
+              <entry count="1">07/28/2000</entry>
+              <entry count="1">01/28/2000</entry>
+              <entry count="1">05/13/2001</entry>
+              <entry count="1">12/06/2000</entry>
+              <entry count="1">08/16/1998</entry>
+              <entry count="1">06/18/2001</entry>
+              <entry count="1">12/13/2001</entry>
+              <entry count="1">03/18/2001</entry>
+              <entry count="1">08/14/1998</entry>
+              <entry count="1">03/24/1998</entry>
+              <entry count="1">10/08/1998</entry>
+              <entry count="1">01/12/1998</entry>
+              <entry count="1">03/02/2001</entry>
+              <entry count="1">03/01/2000</entry>
+              <entry count="1">07/19/2001</entry>
+              <entry count="1">10/04/2001</entry>
+              <entry count="1">11/27/1998</entry>
+              <entry count="1">05/16/1998</entry>
+              <entry count="1">05/08/2000</entry>
+              <entry count="1">10/22/2001</entry>
+            </text>
+          </element>
+          <element name="time" type="none" count="60">
+            <text type="category" count="60">
+              <entry count="1">13:16:15</entry>
+              <entry count="1">11:29:44</entry>
+              <entry count="1">10:23:59</entry>
+              <entry count="1">14:00:39</entry>
+              <entry count="1">11:23:38</entry>
+              <entry count="1">22:48:00</entry>
+              <entry count="1">22:29:38</entry>
+              <entry count="1">12:43:47</entry>
+              <entry count="1">13:38:51</entry>
+              <entry count="1">04:50:27</entry>
+              <entry count="1">08:02:16</entry>
+              <entry count="1">14:03:16</entry>
+              <entry count="1">22:45:30</entry>
+              <entry count="1">17:13:40</entry>
+              <entry count="1">11:57:56</entry>
+              <entry count="1">00:39:18</entry>
+              <entry count="1">01:08:59</entry>
+              <entry count="1">07:13:32</entry>
+              <entry count="1">09:00:31</entry>
+              <entry count="1">01:59:02</entry>
+              <entry count="1">23:37:09</entry>
+              <entry count="1">12:19:57</entry>
+              <entry count="1">09:37:51</entry>
+              <entry count="1">19:31:44</entry>
+              <entry count="1">05:24:08</entry>
+              <entry count="1">16:16:17</entry>
+              <entry count="1">00:37:15</entry>
+              <entry count="1">12:00:43</entry>
+              <entry count="1">08:53:00</entry>
+              <entry count="1">10:16:15</entry>
+              <entry count="1">08:26:06</entry>
+              <entry count="1">17:14:42</entry>
+              <entry count="1">14:39:18</entry>
+              <entry count="1">23:51:16</entry>
+              <entry count="1">19:14:39</entry>
+              <entry count="1">00:41:04</entry>
+              <entry count="1">19:09:46</entry>
+              <entry count="1">08:14:44</entry>
+              <entry count="1">02:12:12</entry>
+              <entry count="1">05:33:55</entry>
+              <entry count="1">00:57:52</entry>
+              <entry count="1">20:24:02</entry>
+              <entry count="1">02:45:46</entry>
+              <entry count="1">15:18:07</entry>
+              <entry count="1">09:27:27</entry>
+              <entry count="1">19:57:53</entry>
+              <entry count="1">09:01:23</entry>
+              <entry count="1">08:59:02</entry>
+              <entry count="1">16:33:46</entry>
+              <entry count="1">11:45:48</entry>
+              <entry count="1">06:20:35</entry>
+              <entry count="1">21:43:02</entry>
+              <entry count="1">20:20:33</entry>
+              <entry count="1">10:08:07</entry>
+              <entry count="1">00:50:29</entry>
+              <entry count="1">00:58:25</entry>
+              <entry count="1">00:15:23</entry>
+              <entry count="1">15:08:01</entry>
+              <entry count="1">06:44:20</entry>
+              <entry count="1">15:34:49</entry>
+            </text>
+          </element>
+          <element name="personref" type="none" count="60">
+            <attribute name="person" type="category" count="60">
+              <entry count="2">person0</entry>
+              <entry count="7">person23</entry>
+              <entry count="3">person14</entry>
+              <entry count="4">person16</entry>
+              <entry count="2">person20</entry>
+              <entry count="3">person4</entry>
+              <entry count="3">person19</entry>
+              <entry count="2">person15</entry>
+              <entry count="1">person9</entry>
+              <entry count="4">person5</entry>
+              <entry count="3">person8</entry>
+              <entry count="2">person22</entry>
+              <entry count="3">person7</entry>
+              <entry count="3">person21</entry>
+              <entry count="4">person1</entry>
+              <entry count="1">person10</entry>
+              <entry count="2">person17</entry>
+              <entry count="2">person12</entry>
+              <entry count="3">person13</entry>
+              <entry count="1">person11</entry>
+              <entry count="1">person2</entry>
+              <entry count="3">person3</entry>
+              <entry count="1">person6</entry>
+            </attribute>
+          </element>
+          <element name="increase" type="none" count="60">
+            <text type="double" count="60" min="1.5" max="58.5"/>
+          </element>
+        </element>
+        <element name="current" type="none" count="12">
+          <text type="double" count="12" min="16.9" max="263.12"/>
+        </element>
+        <element name="privacy" type="none" count="7">
+          <text type="category" count="7">
+            <entry count="4">No</entry>
+            <entry count="3">Yes</entry>
+          </text>
+        </element>
+        <element name="itemref" type="none" count="12">
+          <attribute name="item" type="category" count="12">
+            <entry count="1">item0</entry>
+            <entry count="1">item2</entry>
+            <entry count="1">item3</entry>
+            <entry count="1">item5</entry>
+            <entry count="1">item7</entry>
+            <entry count="1">item9</entry>
+            <entry count="1">item10</entry>
+            <entry count="1">item12</entry>
+            <entry count="1">item13</entry>
+            <entry count="1">item14</entry>
+            <entry count="1">item16</entry>
+            <entry count="1">item17</entry>
+          </attribute>
+        </element>
+        <element name="seller" type="none" count="12">
+          <attribute name="person" type="category" count="12">
+            <entry count="3">person11</entry>
+            <entry count="2">person10</entry>
+            <entry count="1">person13</entry>
+            <entry count="1">person7</entry>
+            <entry count="1">person14</entry>
+            <entry count="1">person16</entry>
+            <entry count="2">person12</entry>
+            <entry count="1">person8</entry>
+          </attribute>
+        </element>
+        <element name="annotation" type="text" count="12">
+          <element name="author" type="none" count="12">
+            <attribute name="person" type="category" count="12">
+              <entry count="1">person10</entry>
+              <entry count="2">person7</entry>
+              <entry count="1">person9</entry>
+              <entry count="1">person20</entry>
+              <entry count="2">person11</entry>
+              <entry count="2">person6</entry>
+              <entry count="1">person23</entry>
+              <entry count="1">person5</entry>
+              <entry count="1">person2</entry>
+            </attribute>
+          </element>
+          <element name="description" type="text" count="12">
+            <element name="parlist" type="text" count="7">
+              <element name="listitem" type="text" count="18">
+                <element name="parlist" type="text" count="7">
+                  <element name="listitem" type="text" count="25">
+                    <element name="text" type="text" count="25">
+                      <text type="text" count="75"/>
+                      <element name="keyword" type="text" count="17">
+                        <text type="text" count="20"/>
+                        <element name="emph" type="none" count="2">
+                          <text type="text" count="2"/>
+                        </element>
+                        <element name="bold" type="none" count="1">
+                          <text type="category" count="1">
+                            <entry count="1">cell rivers flesh loyal pith</entry>
+                          </text>
+                        </element>
+                      </element>
+                      <element name="bold" type="text" count="20">
+                        <text type="text" count="21"/>
+                        <element name="emph" type="none" count="1">
+                          <text type="category" count="1">
+                            <entry count="1">watch joys lash</entry>
+                          </text>
+                        </element>
+                      </element>
+                      <element name="emph" type="text" count="21">
+                        <text type="text" count="24"/>
+                        <element name="bold" type="none" count="1">
+                          <text type="category" count="1">
+                            <entry count="1">undiscover heretic nobler mer urgeth memory activity waited steward stubbornness conceiv</entry>
+                          </text>
+                        </element>
+                        <element name="keyword" type="none" count="2">
+                          <text type="category" count="2">
+                            <entry count="1">inn</entry>
+                            <entry count="1">converse assails treacherous</entry>
+                          </text>
+                        </element>
+                      </element>
+                    </element>
+                  </element>
+                </element>
+                <element name="text" type="text" count="11">
+                  <element name="keyword" type="text" count="8">
+                    <text type="category" count="9">
+                      <entry count="1">loss flows wears town surge worthies needful</entry>
+                      <entry count="1">man</entry>
+                      <entry count="1">essentially</entry>
+                      <entry count="1">trusty avoid churlish wonderful amiss burn before county winter</entry>
+                      <entry count="1">tender desert</entry>
+                      <entry count="1">brains potency gar</entry>
+                      <entry count="1">twinn</entry>
+                      <entry count="1">bull bora senate kinsman cords negative frowns dismes</entry>
+                      <entry count="1">apace yea stood</entry>
+                    </text>
+                    <element name="emph" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">behalf suspend crystal almost easier aboard</entry>
+                      </text>
+                    </element>
+                  </element>
+                  <text type="text" count="29"/>
+                  <element name="emph" type="text" count="7">
+                    <text type="category" count="9">
+                      <entry count="1">sustain foreward spain exit war rhyme</entry>
+                      <entry count="1">wanton pregnant relent parting beguile privilege reckoning sport</entry>
+                      <entry count="1">began counterfeit likeness fairies preventions flats caesar check looks regard negligence</entry>
+                      <entry count="1">crosby</entry>
+                      <entry count="1">seven knife thence kind shrimp conduit beau religion</entry>
+                      <entry count="1">limbs recompense agamemnon</entry>
+                      <entry count="1">bastinado below senses venetian wait test minutes courted fulvia same fellows fore commandment</entry>
+                      <entry count="1">reconciles wishes hold bestow content laughing hic nobler</entry>
+                      <entry count="1">chances easily brief limbs castile consult</entry>
+                    </text>
+                    <element name="bold" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">either chin fay</entry>
+                      </text>
+                    </element>
+                    <element name="keyword" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">wrath aboard</entry>
+                      </text>
+                    </element>
+                  </element>
+                  <element name="bold" type="none" count="5">
+                    <text type="category" count="5">
+                      <entry count="1">growth stiff pull</entry>
+                      <entry count="1">our</entry>
+                      <entry count="1">shrewd unblest valiant issue</entry>
+                      <entry count="1">grace</entry>
+                      <entry count="1">constables burst wrest heigh albany fire</entry>
+                    </text>
+                  </element>
+                </element>
+              </element>
+            </element>
+            <element name="text" type="text" count="5">
+              <text type="text" count="9"/>
+              <element name="emph" type="none" count="2">
+                <text type="category" count="2">
+                  <entry count="1">answer hunter mess eros peerless offenders confess dale</entry>
+                  <entry count="1">foot</entry>
+                </text>
+              </element>
+              <element name="keyword" type="none" count="2">
+                <text type="category" count="2">
+                  <entry count="1">even persuasion</entry>
+                  <entry count="1">complaint master sluttery description little incontinent her mar speaking protest errand</entry>
+                </text>
+              </element>
+              <element name="bold" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">proper departure preventions abuse tempt messenger herein</entry>
+                </text>
+              </element>
+            </element>
+          </element>
+          <element name="happiness" type="none" count="12">
+            <text type="integer" count="12" min="1" max="10"/>
+          </element>
+        </element>
+        <element name="quantity" type="none" count="12">
+          <text type="integer" count="12" min="1" max="4"/>
+        </element>
+        <element name="type" type="none" count="12">
+          <text type="category" count="12">
+            <entry count="4">Regular</entry>
+            <entry count="7">Featured</entry>
+            <entry count="1">Regular, Dutch</entry>
+          </text>
+        </element>
+        <element name="interval" type="text" count="12">
+          <element name="start" type="none" count="12">
+            <text type="category" count="12">
+              <entry count="1">02/27/1998</entry>
+              <entry count="1">06/14/1998</entry>
+              <entry count="1">07/16/2000</entry>
+              <entry count="1">02/01/2001</entry>
+              <entry count="1">08/05/2000</entry>
+              <entry count="1">01/27/2001</entry>
+              <entry count="1">12/15/2001</entry>
+              <entry count="1">04/06/2001</entry>
+              <entry count="1">10/20/1998</entry>
+              <entry count="1">06/16/1998</entry>
+              <entry count="1">06/26/2000</entry>
+              <entry count="1">11/03/1999</entry>
+            </text>
+          </element>
+          <element name="end" type="none" count="12">
+            <text type="category" count="12">
+              <entry count="1">03/09/1999</entry>
+              <entry count="1">02/27/1999</entry>
+              <entry count="1">10/22/2000</entry>
+              <entry count="1">07/22/1999</entry>
+              <entry count="1">01/09/1999</entry>
+              <entry count="1">10/08/1999</entry>
+              <entry count="1">07/13/1999</entry>
+              <entry count="1">04/11/2000</entry>
+              <entry count="1">02/04/2001</entry>
+              <entry count="1">12/05/2000</entry>
+              <entry count="1">02/04/1998</entry>
+              <entry count="1">03/02/2000</entry>
+            </text>
+          </element>
+        </element>
+      </element>
+    </element>
+    <element name="closed_auctions" type="text" count="1">
+      <element name="closed_auction" type="text" count="10">
+        <element name="seller" type="none" count="10">
+          <attribute name="person" type="category" count="10">
+            <entry count="1">person15</entry>
+            <entry count="1">person10</entry>
+            <entry count="1">person8</entry>
+            <entry count="3">person12</entry>
+            <entry count="1">person14</entry>
+            <entry count="1">person5</entry>
+            <entry count="1">person6</entry>
+            <entry count="1">person9</entry>
+          </attribute>
+        </element>
+        <element name="buyer" type="none" count="10">
+          <attribute name="person" type="category" count="10">
+            <entry count="1">person10</entry>
+            <entry count="2">person12</entry>
+            <entry count="2">person11</entry>
+            <entry count="3">person14</entry>
+            <entry count="1">person8</entry>
+            <entry count="1">person17</entry>
+          </attribute>
+        </element>
+        <element name="itemref" type="none" count="10">
+          <attribute name="item" type="category" count="10">
+            <entry count="1">item1</entry>
+            <entry count="1">item4</entry>
+            <entry count="1">item6</entry>
+            <entry count="1">item8</entry>
+            <entry count="1">item11</entry>
+            <entry count="1">item15</entry>
+            <entry count="1">item18</entry>
+            <entry count="1">item19</entry>
+            <entry count="1">item20</entry>
+            <entry count="1">item21</entry>
+          </attribute>
+        </element>
+        <element name="price" type="none" count="10">
+          <text type="double" count="10" min="9.41" max="451.27"/>
+        </element>
+        <element name="date" type="none" count="10">
+          <text type="category" count="10">
+            <entry count="1">06/23/1998</entry>
+            <entry count="1">12/09/2001</entry>
+            <entry count="1">07/24/2001</entry>
+            <entry count="1">03/02/1998</entry>
+            <entry count="1">06/22/2000</entry>
+            <entry count="1">07/03/2001</entry>
+            <entry count="1">01/14/2000</entry>
+            <entry count="1">02/28/2000</entry>
+            <entry count="1">05/17/1998</entry>
+            <entry count="1">09/09/2000</entry>
+          </text>
+        </element>
+        <element name="quantity" type="none" count="10">
+          <text type="integer" count="10" min="1" max="2"/>
+        </element>
+        <element name="type" type="none" count="10">
+          <text type="category" count="10">
+            <entry count="4">Regular</entry>
+            <entry count="6">Featured</entry>
+          </text>
+        </element>
+        <element name="annotation" type="text" count="10">
+          <element name="author" type="none" count="10">
+            <attribute name="person" type="category" count="10">
+              <entry count="1">person12</entry>
+              <entry count="1">person22</entry>
+              <entry count="1">person17</entry>
+              <entry count="2">person0</entry>
+              <entry count="1">person6</entry>
+              <entry count="1">person7</entry>
+              <entry count="1">person3</entry>
+              <entry count="1">person2</entry>
+              <entry count="1">person16</entry>
+            </attribute>
+          </element>
+          <element name="description" type="text" count="10">
+            <element name="parlist" type="text" count="6">
+              <element name="listitem" type="text" count="15">
+                <element name="text" type="text" count="14">
+                  <text type="text" count="30"/>
+                  <element name="emph" type="text" count="4">
+                    <text type="text" count="6"/>
+                    <element name="keyword" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">skin fill office act ambition bestowed liking stabb seem deceas</entry>
+                      </text>
+                    </element>
+                    <element name="bold" type="none" count="1">
+                      <text type="text" count="1"/>
+                    </element>
+                  </element>
+                  <element name="keyword" type="text" count="10">
+                    <text type="text" count="11"/>
+                    <element name="bold" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">equally excursions</entry>
+                      </text>
+                    </element>
+                  </element>
+                  <element name="bold" type="text" count="4">
+                    <text type="category" count="5">
+                      <entry count="1">touch before differences</entry>
+                      <entry count="1">last set whore instructed suffolk</entry>
+                      <entry count="1">goneril monk harms frighted tyranny coffin</entry>
+                      <entry count="1">grant manners outward prayer abhors conjured lazy</entry>
+                      <entry count="1">knell ambush</entry>
+                    </text>
+                    <element name="keyword" type="none" count="1">
+                      <text type="category" count="1">
+                        <entry count="1">wont famine</entry>
+                      </text>
+                    </element>
+                  </element>
+                </element>
+                <element name="parlist" type="text" count="1">
+                  <element name="listitem" type="text" count="3">
+                    <element name="text" type="text" count="3">
+                      <text type="text" count="4"/>
+                      <element name="bold" type="none" count="1">
+                        <text type="category" count="1">
+                          <entry count="1">disease</entry>
+                        </text>
+                      </element>
+                    </element>
+                  </element>
+                </element>
+              </element>
+            </element>
+            <element name="text" type="text" count="4">
+              <text type="text" count="10"/>
+              <element name="keyword" type="text" count="5">
+                <text type="category" count="6">
+                  <entry count="1">beam irae younger poets</entry>
+                  <entry count="1">marks</entry>
+                  <entry count="1">abroad</entry>
+                  <entry count="1">strength</entry>
+                  <entry count="1">thence</entry>
+                  <entry count="1">things wearied battle early lover</entry>
+                </text>
+                <element name="bold" type="none" count="1">
+                  <text type="category" count="1">
+                    <entry count="1">adoration veins says depth ford selves book entertain sirrah elements preserv whatsoever conduct</entry>
+                  </text>
+                </element>
+              </element>
+              <element name="bold" type="none" count="1">
+                <text type="category" count="1">
+                  <entry count="1">wounded prime image runaways shoot</entry>
+                </text>
+              </element>
+            </element>
+          </element>
+          <element name="happiness" type="none" count="10">
+            <text type="integer" count="10" min="2" max="8"/>
+          </element>
+        </element>
+      </element>
+    </element>
+  </element>
+</document-node>

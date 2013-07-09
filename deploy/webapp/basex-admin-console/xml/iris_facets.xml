@@ -1,0 +1,98 @@
+<document-node type="text" count="1">
+  <element name="topic" type="text" count="1">
+    <attribute name="id" type="category" count="1">
+      <entry count="1">topic-1</entry>
+    </attribute>
+    <element name="title" type="none" count="1">
+      <text type="category" count="1">
+        <entry count="1">Iris</entry>
+      </text>
+    </element>
+    <element name="body" type="text" count="1">
+      <element name="p" type="text" count="6">
+        <element name="i" type="none" count="2">
+          <text type="category" count="2">
+            <entry count="1">From Wikipedia, the free encyclopedia.</entry>
+            <entry count="1">rainbow</entry>
+          </text>
+        </element>
+        <element name="b" type="none" count="5">
+          <text type="category" count="5">
+            <entry count="2">Iris</entry>
+            <entry count="1">flags</entry>
+            <entry count="1">Scorpiris</entry>
+            <entry count="1">junos</entry>
+          </text>
+        </element>
+        <text type="text" count="13"/>
+        <element name="xref" type="none" count="4">
+          <attribute name="href" type="category" count="4">
+            <entry count="2">../concepts/glossary.xml#genus</entry>
+            <entry count="1">../concepts/glossary.xml#sepal</entry>
+            <entry count="1">../concepts/glossary.xml#pollination</entry>
+          </attribute>
+          <attribute name="format" type="category" count="4">
+            <entry count="4">dita</entry>
+          </attribute>
+          <text type="category" count="4">
+            <entry count="2">genus</entry>
+            <entry count="1">sepals</entry>
+            <entry count="1">pollination</entry>
+          </text>
+        </element>
+        <element name="image" type="none" count="1">
+          <attribute name="href" type="category" count="1">
+            <entry count="1">../images/Iris_sanguinea.jpg</entry>
+          </attribute>
+          <attribute name="scale" type="integer" count="1" min="50" max="50"/>
+        </element>
+      </element>
+    </element>
+    <element name="topic" type="text" count="1">
+      <attribute name="id" type="category" count="1">
+        <entry count="1">use</entry>
+      </attribute>
+      <element name="title" type="none" count="1">
+        <text type="category" count="1">
+          <entry count="1">Use</entry>
+        </text>
+      </element>
+      <element name="body" type="text" count="1">
+        <element name="p" type="text" count="2">
+          <element name="b" type="none" count="2">
+            <text type="category" count="2">
+              <entry count="1">Irises</entry>
+              <entry count="1">Iris</entry>
+            </text>
+          </element>
+          <text type="text" count="6"/>
+          <element name="i" type="none" count="2">
+            <text type="category" count="2">
+              <entry count="1">Presby Memorial Iris Gardens</entry>
+              <entry count="1">Giardino
+     dell'Iris</entry>
+            </text>
+          </element>
+          <element name="xref" type="none" count="1">
+            <attribute name="href" type="category" count="1">
+              <entry count="1">../concepts/glossary.xml#rhizome</entry>
+            </attribute>
+            <attribute name="format" type="category" count="1">
+              <entry count="1">dita</entry>
+            </attribute>
+            <text type="category" count="1">
+              <entry count="1">rhizomes</entry>
+            </text>
+          </element>
+        </element>
+      </element>
+      <element name="related-links" type="text" count="1">
+        <element name="link" type="none" count="1">
+          <attribute name="href" type="category" count="1">
+            <entry count="1">snowdrop.xml#topic-1</entry>
+          </attribute>
+        </element>
+      </element>
+    </element>
+  </element>
+</document-node>

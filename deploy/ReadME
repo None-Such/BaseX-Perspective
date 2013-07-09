@@ -1,0 +1,3 @@
+Starting command
+
+./basex-http-start.sh -h8986 -s8987 -p1984 -e1985 -d

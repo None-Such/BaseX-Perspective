@@ -1,0 +1,26 @@
+<database>
+  <databaseproperties>
+    <name>iris</name>
+    <size>9434 Bytes</size>
+    <nodes>86</nodes>
+    <documents>1</documents>
+    <binaries>0</binaries>
+    <timestamp>2013-06-13-18-18-02</timestamp>
+  </databaseproperties>
+  <resourceproperties>
+    <inputpath>/home/badrit/work/metaHeuristica/i4Basex_v2/resources/dbs/iris.xml</inputpath>
+    <inputsize>4544 Bytes</inputsize>
+    <timestamp>2013-03-19-20-51-12</timestamp>
+    <encoding>UTF-8</encoding>
+    <whitespacechopping>ON</whitespacechopping>
+  </resourceproperties>
+  <indexes>
+    <uptodate>true</uptodate>
+    <textindex>ON</textindex>
+    <attributeindex>ON</attributeindex>
+    <fulltextindex>OFF</fulltextindex>
+    <updindex>OFF</updindex>
+    <maxcats>100</maxcats>
+    <maxlen>96</maxlen>
+  </indexes>
+</database>

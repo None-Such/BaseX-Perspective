@@ -1,0 +1,144 @@
+# BaseX Property File.
+
+# Paths
+INPUTPATH = 
+DATAPATH = C:\Program Files (x86)\BaseX\
+WORKPATH = C:/_i4/i4BaseX/resources/xquery/
+EDITOR = 4
+EDITOR1 = C:/_i4/i4BaseX/resources/xquery/upload-to-Solr-Release-Canonical-DC.xq
+EDITOR2 = C:/_i4/i4BaseX/resources/xquery/generate-canonical-db.xq
+EDITOR3 = C:/_i4/i4BaseX/resources/xquery/upload-to-Solr-Recording-Canonical-DC.xq
+EDITOR4 = C:/_i4/i4BaseX/resources/xslt/generate-canonical.xsl
+INPUTS = 6
+INPUTS1 = 
+INPUTS2 = C:/_i4/i4DITA_v2/Diagnostics/Facets.xml
+INPUTS3 = G:/new_release/BY_DATE/BY_DATE_5
+INPUTS4 = G:\new_release\20121102134532368
+INPUTS5 = G:/new_release/20110913_0901_28
+INPUTS6 = G:/new_release
+
+# Layout
+FONT = SansSerif
+MONOFONT = Monospaced
+FONTTYPE = 0
+FONTSIZE = 13
+COLORRED = 20
+COLORGREEN = 17
+COLORBLUE = 7
+GRADIENT = true
+
+# Windows
+UPDATEVERSION = 7.6
+VIEWS = V tree H V table H map V editor H V H folder plot - explore - info - - - - text - - 
+GUISIZE0 = 1510
+GUISIZE1 = 1096
+GUILOC0 = 410
+GUILOC1 = 0
+MAXSTATE = true
+SHOWBUTTONS = true
+SHOWINPUT = true
+SHOWSTATUS = true
+SHOWINFO = false
+SHOWMAP = false
+SHOWTABLE = false
+SHOWTEXT = true
+SHOWFOLDER = false
+SHOWEXPLORE = false
+SHOWPLOT = false
+SHOWEDITOR = true
+SHOWTREE = false
+MAPLAYOUTLOC0 = 316
+MAPLAYOUTLOC1 = 195
+FONTSLOC0 = 10
+FONTSLOC1 = 530
+COLORSLOC0 = 8
+COLORSLOC1 = 620
+JAVALOOK = false
+SHOWNAME = true
+MOUSEFOCUS = false
+SIMPLEFD = false
+SEARCHMODE = 1
+FILTERRT = false
+EXECRT = false
+CREATENAME = Repertoire-Warner-02-18
+LASTINSERT = 1
+
+# Server Dialog
+S_HOST = localhost
+S_PORT = 1984
+S_SERVERPORT = 1984
+S_EVENTPORT = 1985
+S_USER = 
+S_PASSWORD = 
+
+# Visualizations
+MAPATTS = false
+MAPOFFSETS = 3
+MAPALGO = 0
+MAPWEIGHT = 0
+TREESLIM = true
+TREEATTS = false
+PLOTDOTS = 0
+PLOTXLOG = false
+PLOTYLOG = false
+MAXTEXT = 2097152
+MAXHITS = -1
+
+# Search
+SR_SEARCH = serialization
+SR_REPLACE = 
+SR_REGEX = false
+SR_CASE = false
+SR_WORD = false
+SR_MULTI = false
+SEARCHED = 10
+SEARCHED1 = single
+SEARCHED2 = album
+SEARCHED3 = grid
+SEARCHED4 = ICPN
+SEARCHED5 = release
+SEARCHED6 = USAT29902050
+SEARCHED7 = isrc
+SEARCHED8 = Chaka Khan
+SEARCHED9 = 
+SEARCHED10 = deallist
+REPLACED = 0
+
+# History
+COMMANDS = 8
+COMMANDS1 = info
+COMMANDS2 = help
+COMMANDS3 = options
+COMMANDS4 = Repertoire-Warner/BY_DATE_3/20120626_0612_15/016861765606/016861765606.xml
+COMMANDS5 = info db
+COMMANDS6 = optimize all
+COMMANDS7 = optimize
+COMMANDS8 = delete //NewReleaseMessage/MessageHeader
+SEARCH = 12
+SEARCH1 = Repertoire-Warner/BY_DATE_3/20120626_0612_15/016861765606/016861765606.xml
+SEARCH2 = //NewReleaseMessage/ReleaseList/Release/ReleaseId/ISRC/ISRC[text()='USAT29902050']
+SEARCH3 = //ISRC[text()='USAT29902050']
+SEARCH4 = //ISRC[text()='GBAHT9803036']
+SEARCH5 = //ISRC[text()=GBAHT9803036]
+SEARCH6 = GBAHT9803036
+SEARCH7 = 123
+SEARCH8 = delete //NewReleaseMessage/MessageHeader
+SEARCH9 = db:open("mini-Sample-DB")/ernm:NewReleaseMessage/ReleaseList/Release/ReleaseType/text()='Album'
+SEARCH10 = db:open("mini-Sample-DB","mini-Sample-DB/085364440266/085364440266.xml")/ernm:NewReleaseMessage/ReleaseList/Release/ReleaseType/text()='Album'
+SEARCH11 = \*
+SEARCH12 = Bach
+XQUERY = 12
+XQUERY1 = 
+XQUERY2 = string-join(distinct-values(//*:Release/*:Label),"&#10;")
+XQUERY3 = distinct-values(//*:Release/*:Label)
+XQUERY4 = distinct-values(//Release/Label)
+XQUERY5 = /product[@upc="00028947788164"]
+XQUERY6 = /product/@upc="00028947788164"
+XQUERY7 = /DC_Release_Canonical/Recording
+XQUERY8 = count(/DC_Release_Canonical/Recording)
+XQUERY9 = /product[track_count="1"]
+XQUERY10 = db:facets(.)
+XQUERY11 = db:facet(.)
+XQUERY12 = /NewReleaseMessage[ReleaseList/Release/ReleaseId/GRid]
+
+# Local Options

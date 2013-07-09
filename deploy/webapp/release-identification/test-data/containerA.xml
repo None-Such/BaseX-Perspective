@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sx-container purpose="repertoire-attested">
+   <sx-manifest>
+      <provider>Warner</provider>
+      <date-time-received>2013-05-02T13:20:19.343-04:00</date-time-received>
+      <transmission-medium>[NOT PROVIDED]</transmission-medium>
+      <location-received>Warner-samples/20121002104449147/054391977304/054391977304.xml</location-received>
+      <location-archived/>
+      <format>
+         <media-type>application/xml</media-type>
+         <schema>DDEX</schema>
+         <schema-variant>ern/341 (Warner)</schema-variant>
+      </format>
+   </sx-manifest>
+   <provider-message>
+      <NewReleaseMessage MessageSchemaVersionId="ern/341" LanguageAndScriptCode="en" schemaLocation="http://ddex.net/xml/ern/341 http://ddex.net/xml/ern/341/release-notification.xsd">
+         <MessageHeader>
+            <MessageThreadId>WMG000003136701</MessageThreadId>
+            <MessageId>CB173BC197420BB3E04400144FEAB9A6</MessageId>
+            <MessageSender>
+               <PartyId>PADPIDA2007050901U</PartyId>
+               <PartyName>
+                  <FullName>Warner Music Group</FullName>
+               </PartyName>
+            </MessageSender>
+            <SentOnBehalfOf>
+               <PartyId>PADPIDA2007050901U</PartyId>
+               <PartyName>
+                  <FullName>Warner Music Group</FullName>
+               </PartyName>
+            </SentOnBehalfOf>
+            <MessageRecipient>
+               <PartyId>3435</PartyId>
+               <PartyName>
+                  <FullName>3435-Sound Exchange</FullName>
+               </PartyName>
+            </MessageRecipient>
+            <MessageCreatedDateTime>2012-10-02T09:44:44Z</MessageCreatedDateTime>
+            <MessageControlType>LiveMessage</MessageControlType>
+         </MessageHeader>
+         <UpdateIndicator>UpdateMessage</UpdateIndicator>
+         <ResourceList>
+            <SoundRecording>
+               <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+               <SoundRecordingId>
+                  <ISRC>USRE11200088</ISRC>
+               </SoundRecordingId>
+               <ResourceReference>A1</ResourceReference>
+               <ReferenceTitle>
+                  <TitleText>Give Me Your Hand [Best Song Ever]</TitleText>
+               </ReferenceTitle>
+               <Duration>PT3M48.093S</Duration>
+               <SoundRecordingDetailsByTerritory>
+                  <TerritoryCode>Worldwide</TerritoryCode>
+                  <Title TitleType="FormalTitle">
+                     <TitleText>Give Me Your Hand [Best Song Ever]</TitleText>
+                  </Title>
+                  <Title TitleType="DisplayTitle">
+                     <TitleText>Give Me Your Hand (Best Song Ever)</TitleText>
+                  </Title>
+                  <DisplayArtist>
+                     <PartyName>
+                        <FullName>The Ready Set</FullName>
+                     </PartyName>
+                     <PartyId Namespace="DPID:PADPIDA2007050901U">1271527</PartyId>
+                     <ArtistRole>MainArtist</ArtistRole>
+                  </DisplayArtist>
+                  <ResourceContributor>
+                     <PartyName>
+                        <FullName>Andrew Goldstein</FullName>
+                     </PartyName>
+                     <ResourceContributorRole>Producer</ResourceContributorRole>
+                  </ResourceContributor>
+                  <ResourceContributor>
+                     <PartyName>
+                        <FullName>Serban Ghenea</FullName>
+                     </PartyName>
+                     <ResourceContributorRole Namespace="DPID:PADPIDA2007050901U" UserDefinedValue="Mixer">UserDefined</ResourceContributorRole>
+                  </ResourceContributor>
+                  <ResourceContributor>
+                     <PartyName>
+                        <FullName>The Ready Set</FullName>
+                     </PartyName>
+                     <ResourceContributorRole Namespace="DPID:PADPIDA2007050901U" UserDefinedValue="Performed by">UserDefined</ResourceContributorRole>
+                  </ResourceContributor>
+                  <IndirectResourceContributor>
+                     <PartyName>
+                        <FullName>Andrew Goldstein</FullName>
+                     </PartyName>
+                     <IndirectResourceContributorRole Namespace="DPID:PADPIDA2007050901U" UserDefinedValue="Writer">UserDefined</IndirectResourceContributorRole>
+                  </IndirectResourceContributor>
+                  <IndirectResourceContributor>
+                     <PartyName>
+                        <FullName>Jordan Witzigreuter</FullName>
+                     </PartyName>
+                     <IndirectResourceContributorRole Namespace="DPID:PADPIDA2007050901U" UserDefinedValue="Writer">UserDefined</IndirectResourceContributorRole>
+                  </IndirectResourceContributor>
+                  <IndirectResourceContributor>
+                     <PartyName>
+                        <FullName>Simon Wilcox</FullName>
+                     </PartyName>
+                     <IndirectResourceContributorRole Namespace="DPID:PADPIDA2007050901U" UserDefinedValue="Writer">UserDefined</IndirectResourceContributorRole>
+                  </IndirectResourceContributor>
+                  <LabelName>Sire/Reprise</LabelName>
+                  <LabelName LabelNameType="MajorLabel">Warner Brothers</LabelName>
+                  <PLine>
+                     <Year>2012</Year>
+                     <PLineText>2012 Sire Records.</PLineText>
+                  </PLine>
+                  <Genre>
+                     <GenreText>Pop</GenreText>
+                  </Genre>
+                  <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+               </SoundRecordingDetailsByTerritory>
+            </SoundRecording>
+         </ResourceList>
+         <ReleaseList>
+            <Release>
+               <ReleaseId>
+                  <GRid>A10302B0001573246C</GRid>
+                  <ICPN IsEan="false">054391977304</ICPN>
+               </ReleaseId>
+               <ReleaseReference>R0</ReleaseReference>
+               <ReferenceTitle>
+                  <TitleText>Give Me Your Hand [Best Song Ever]</TitleText>
+               </ReferenceTitle>
+               <ReleaseResourceReferenceList>
+                  <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+               </ReleaseResourceReferenceList>
+               <ReleaseType>Single</ReleaseType>
+               <ReleaseDetailsByTerritory>
+                  <TerritoryCode>Worldwide</TerritoryCode>
+                  <DisplayArtistName>The Ready Set</DisplayArtistName>
+                  <LabelName>Sire/Reprise</LabelName>
+                  <LabelName LabelNameType="MajorLabel">Warner Brothers</LabelName>
+                  <Title TitleType="FormalTitle">
+                     <TitleText>Give Me Your Hand [Best Song Ever]</TitleText>
+                  </Title>
+                  <Title TitleType="DisplayTitle">
+                     <TitleText>Give Me Your Hand (Best Song Ever)</TitleText>
+                  </Title>
+                  <Title TitleType="GroupingTitle">
+                     <TitleText>Give Me Your Hand [Best Song Ever]</TitleText>
+                  </Title>
+                  <DisplayArtist>
+                     <PartyName>
+                        <FullName>The Ready Set</FullName>
+                     </PartyName>
+                     <PartyId Namespace="DPID:PADPIDA2007050901U">1271527</PartyId>
+                     <ArtistRole>MainArtist</ArtistRole>
+                  </DisplayArtist>
+                  <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                  <ResourceGroup>
+                     <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                           <SequenceNumber>1</SequenceNumber>
+                           <ResourceType>SoundRecording</ResourceType>
+                           <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                     </ResourceGroup>
+                  </ResourceGroup>
+                  <Genre>
+                     <GenreText>Pop</GenreText>
+                  </Genre>
+                  <OriginalReleaseDate>2012-05-18</OriginalReleaseDate>
+                  <Keywords>The Ready Set Give Me Your Hand [Best Song Ever] Pop</Keywords>
+               </ReleaseDetailsByTerritory>
+               <PLine>
+                  <Year>2012</Year>
+                  <PLineText>2012 Sire Records.</PLineText>
+               </PLine>
+               <CLine>
+                  <Year>2012</Year>
+                  <CLineText>2012 Sire Records.</CLineText>
+               </CLine>
+            </Release>
+            <Release>
+               <ReleaseId>
+                  <GRid>A10302B0001577965Y</GRid>
+                  <ISRC>USRE11200088</ISRC>
+               </ReleaseId>
+               <ReleaseReference>R1</ReleaseReference>
+               <ReferenceTitle>
+                  <TitleText>Give Me Your Hand [Best Song Ever]</TitleText>
+               </ReferenceTitle>
+               <ReleaseResourceReferenceList>
+                  <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+               </ReleaseResourceReferenceList>
+               <ReleaseType>TrackRelease</ReleaseType>
+               <ReleaseDetailsByTerritory>
+                  <TerritoryCode>Worldwide</TerritoryCode>
+                  <DisplayArtistName>The Ready Set</DisplayArtistName>
+                  <LabelName>Sire/Reprise</LabelName>
+                  <LabelName LabelNameType="MajorLabel">Warner Brothers</LabelName>
+                  <Title TitleType="FormalTitle">
+                     <TitleText>Give Me Your Hand [Best Song Ever]</TitleText>
+                  </Title>
+                  <Title TitleType="DisplayTitle">
+                     <TitleText>Give Me Your Hand (Best Song Ever)</TitleText>
+                  </Title>
+                  <DisplayArtist>
+                     <PartyName>
+                        <FullName>The Ready Set</FullName>
+                     </PartyName>
+                     <PartyId Namespace="DPID:PADPIDA2007050901U">1271527</PartyId>
+                     <ArtistRole>MainArtist</ArtistRole>
+                  </DisplayArtist>
+                  <ResourceGroup>
+                     <SequenceNumber>1</SequenceNumber>
+                     <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+                     </ResourceGroupContentItem>
+                  </ResourceGroup>
+                  <Genre>
+                     <GenreText>Pop</GenreText>
+                  </Genre>
+                  <Keywords>The Ready Set Give Me Your Hand [Best Song Ever] Pop</Keywords>
+               </ReleaseDetailsByTerritory>
+               <PLine>
+                  <Year>2012</Year>
+                  <PLineText>2012 Sire Records.</PLineText>
+               </PLine>
+            </Release>
+         </ReleaseList>
+      </NewReleaseMessage>
+   </provider-message>
+</sx-container>

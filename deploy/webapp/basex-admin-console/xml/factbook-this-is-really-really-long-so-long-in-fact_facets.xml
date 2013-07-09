@@ -1,0 +1,1390 @@
+<document-node type="text" count="1">
+  <element name="mondial" type="text" count="1">
+    <element name="continent" type="none" count="5">
+      <attribute name="id" type="category" count="5">
+        <entry count="1">f0_119</entry>
+        <entry count="1">f0_123</entry>
+        <entry count="1">f0_126</entry>
+        <entry count="1">f0_129</entry>
+        <entry count="1">f0_132</entry>
+      </attribute>
+      <attribute name="name" type="category" count="5">
+        <entry count="1">Europe</entry>
+        <entry count="1">Asia</entry>
+        <entry count="1">America</entry>
+        <entry count="1">Australia/Oceania</entry>
+        <entry count="1">Africa</entry>
+      </attribute>
+    </element>
+    <element name="country" type="text" count="231">
+      <attribute name="id" type="text" count="231"/>
+      <attribute name="name" type="text" count="231"/>
+      <attribute name="capital" type="text" count="231"/>
+      <attribute name="population" type="integer" count="231" min="56" max="1.210004992E9"/>
+      <attribute name="datacode" type="text" count="230"/>
+      <attribute name="total_area" type="double" count="231" min="0.44" max="1.70752E7"/>
+      <attribute name="population_growth" type="double" count="230" min="-8.98" max="16.49"/>
+      <attribute name="infant_mortality" type="double" count="222" min="2.2" max="149.7"/>
+      <attribute name="gdp_agri" type="double" count="154" min="0" max="70.4"/>
+      <attribute name="gdp_total" type="double" count="220" min="2.4" max="7.2477E6"/>
+      <attribute name="inflation" type="double" count="202" min="-3.6" max="244"/>
+      <attribute name="indep_date" type="text" count="180"/>
+      <attribute name="government" type="text" count="231"/>
+      <attribute name="car_code" type="text" count="194"/>
+      <element name="name" type="none" count="239">
+        <text type="text" count="239"/>
+      </element>
+      <element name="city" type="text" count="557">
+        <attribute name="id" type="text" count="557"/>
+        <attribute name="country" type="text" count="554"/>
+        <attribute name="longitude" type="double" count="166" min="-171" max="178"/>
+        <attribute name="latitude" type="double" count="166" min="-41.2833" max="65.4"/>
+        <element name="name" type="none" count="568">
+          <text type="text" count="568"/>
+        </element>
+        <element name="population" type="none" count="474">
+          <attribute name="year" type="integer" count="474" min="81" max="96"/>
+          <text type="integer" count="474" min="392" max="1.0229262E7"/>
+        </element>
+        <element name="located_at" type="none" count="73">
+          <attribute name="type" type="category" count="73">
+            <entry count="5">lake</entry>
+            <entry count="59">sea</entry>
+            <entry count="9">river</entry>
+          </attribute>
+          <attribute name="water" type="category" count="73">
+            <entry count="1">f0_39058</entry>
+            <entry count="10">f0_38042</entry>
+            <entry count="4">f0_38203</entry>
+            <entry count="1">f0_38020</entry>
+            <entry count="22">f0_38068</entry>
+            <entry count="1">f0_39031</entry>
+            <entry count="1">f0_38576</entry>
+            <entry count="1">f0_38219</entry>
+            <entry count="4">f0_38805</entry>
+            <entry count="1">f0_38560</entry>
+            <entry count="9">f0_39009</entry>
+            <entry count="3">f0_38596</entry>
+            <entry count="1">f0_39287</entry>
+            <entry count="1">f0_38233</entry>
+            <entry count="1">f0_38227</entry>
+            <entry count="4">f0_38161</entry>
+            <entry count="1">f0_39213</entry>
+            <entry count="1">f0_38898</entry>
+            <entry count="1">f0_38282</entry>
+            <entry count="1">f0_38261</entry>
+            <entry count="1">f0_39047</entry>
+            <entry count="2">f0_38250</entry>
+            <entry count="1">f0_39190</entry>
+          </attribute>
+        </element>
+      </element>
+      <element name="ethnicgroups" type="none" count="515">
+        <attribute name="percentage" type="double" count="515" min="0.06" max="100"/>
+        <text type="text" count="515"/>
+      </element>
+      <element name="religions" type="none" count="446">
+        <attribute name="percentage" type="double" count="446" min="0.1" max="100"/>
+        <text type="category" count="446">
+          <entry count="77">Muslim</entry>
+          <entry count="92">Roman Catholic</entry>
+          <entry count="1">Albanian Orthodox</entry>
+          <entry count="55">Protestant</entry>
+          <entry count="5">Eastern Orthodox</entry>
+          <entry count="5">Orthodox</entry>
+          <entry count="3">Catholic</entry>
+          <entry count="9">Jewish</entry>
+          <entry count="1">Bulgarian Orthodox</entry>
+          <entry count="1">Uniate Catholic</entry>
+          <entry count="1">Slavic Muslim</entry>
+          <entry count="7">Evangelical Lutheran</entry>
+          <entry count="3">Protestant Roman Catholic</entry>
+          <entry count="3">Greek Orthodox</entry>
+          <entry count="3">Lutheran</entry>
+          <entry count="1">Calvinist</entry>
+          <entry count="15">Anglican</entry>
+          <entry count="1">Protestant Jewish</entry>
+          <entry count="1">Romanian Orthodox</entry>
+          <entry count="1">Pentecostal</entry>
+          <entry count="13">Sunni Muslim</entry>
+          <entry count="4">Shia Muslim</entry>
+          <entry count="2">Armenian Orthodox</entry>
+          <entry count="2">Russian Orthodox</entry>
+          <entry count="10">Hindu</entry>
+          <entry count="1">Lamaistic Buddhism</entry>
+          <entry count="1">Indian- Nepalese-influenced Hinduism</entry>
+          <entry count="52">Christian</entry>
+          <entry count="3">Buddhism</entry>
+          <entry count="9">Buddhist</entry>
+          <entry count="1">Theravada Buddhism</entry>
+          <entry count="1">Armenian Apostolic</entry>
+          <entry count="1">Christian Orthodox</entry>
+          <entry count="1">Sikh</entry>
+          <entry count="1">Jains</entry>
+          <entry count="2">Bahai</entry>
+          <entry count="2">Islam</entry>
+          <entry count="1">Druze</entry>
+          <entry count="1">Judaism</entry>
+          <entry count="1">Shinto Buddhist</entry>
+          <entry count="2">Christianity</entry>
+          <entry count="1">Confucianism</entry>
+          <entry count="1">Chondogyo</entry>
+          <entry count="1">Ibadhi Muslim</entry>
+          <entry count="9">Seventh-Day Adventist</entry>
+          <entry count="1">Presbyterian/Methodist/London Missionary Society</entry>
+          <entry count="1">Evangelical Alliance</entry>
+          <entry count="1">Taoist</entry>
+          <entry count="1">Hinduism</entry>
+          <entry count="6">Baptist</entry>
+          <entry count="5">Methodist</entry>
+          <entry count="1">Church God</entry>
+          <entry count="1">United Church</entry>
+          <entry count="2">Hindu African</entry>
+          <entry count="1">Episcopalian</entry>
+          <entry count="1">Christian Congregationalist</entry>
+          <entry count="1">African Methodist Episcopal</entry>
+          <entry count="1">Mormon</entry>
+          <entry count="2">Presbyterian</entry>
+          <entry count="1">Morman</entry>
+          <entry count="1">Ekalesia Nieue</entry>
+          <entry count="1">Uniting Church Australia</entry>
+          <entry count="1">United</entry>
+          <entry count="1">Church Tuvalu</entry>
+          <entry count="1">Church Christ</entry>
+          <entry count="1">Christian Jewish</entry>
+          <entry count="1">Roman Catholicism</entry>
+          <entry count="1">Coptic Christian</entry>
+          <entry count="1">Christian Roman Catholic</entry>
+          <entry count="1">Ethiopian Orthodox</entry>
+          <entry count="1">Kimbanguist</entry>
+          <entry count="1">Muslim Hindu</entry>
+        </text>
+      </element>
+      <element name="encompassed" type="none" count="234">
+        <attribute name="continent" type="category" count="234">
+          <entry count="51">f0_119</entry>
+          <entry count="49">f0_123</entry>
+          <entry count="31">f0_129</entry>
+          <entry count="48">f0_126</entry>
+          <entry count="55">f0_132</entry>
+        </attribute>
+        <attribute name="percentage" type="integer" count="234" min="10" max="100"/>
+      </element>
+      <element name="border" type="none" count="613">
+        <attribute name="length" type="double" count="613" min="0.34" max="8893"/>
+        <attribute name="country" type="text" count="613"/>
+      </element>
+      <attribute name="gdp_ind" type="double" count="149" min="3.2" max="60"/>
+      <attribute name="gdp_serv" type="double" count="149" min="7" max="95.4"/>
+      <element name="province" type="text" count="1455">
+        <attribute name="id" type="text" count="1455"/>
+        <attribute name="name" type="text" count="1455"/>
+        <attribute name="country" type="category" count="1455">
+          <entry count="9">f0_149</entry>
+          <entry count="9">f0_162</entry>
+          <entry count="7">f0_184</entry>
+          <entry count="12">f0_208</entry>
+          <entry count="22">f0_213</entry>
+          <entry count="16">f0_220</entry>
+          <entry count="13">f0_232</entry>
+          <entry count="25">f0_251</entry>
+          <entry count="20">f0_268</entry>
+          <entry count="12">f0_325</entry>
+          <entry count="19">f0_332</entry>
+          <entry count="49">f0_337</entry>
+          <entry count="20">f0_344</entry>
+          <entry count="41">f0_351</entry>
+          <entry count="80">f0_358</entry>
+          <entry count="17">f0_385</entry>
+          <entry count="24">f0_397</entry>
+          <entry count="26">f0_404</entry>
+          <entry count="25">f0_411</entry>
+          <entry count="79">f0_418</entry>
+          <entry count="14">f0_461</entry>
+          <entry count="30">f0_475</entry>
+          <entry count="32">f0_492</entry>
+          <entry count="24">f0_505</entry>
+          <entry count="18">f0_512</entry>
+          <entry count="5">f0_519</entry>
+          <entry count="47">f0_526</entry>
+          <entry count="21">f0_538</entry>
+          <entry count="15">f0_585</entry>
+          <entry count="23">f0_649</entry>
+          <entry count="5">f0_656</entry>
+          <entry count="80">f0_663</entry>
+          <entry count="73">f0_670</entry>
+          <entry count="5">f0_677</entry>
+          <entry count="7">f0_684</entry>
+          <entry count="13">f0_693</entry>
+          <entry count="60">f0_700</entry>
+          <entry count="24">f0_733</entry>
+          <entry count="27">f0_765</entry>
+          <entry count="12">f0_777</entry>
+          <entry count="33">f0_794</entry>
+          <entry count="7">f0_801</entry>
+          <entry count="15">f0_808</entry>
+          <entry count="14">f0_830</entry>
+          <entry count="18">f0_868</entry>
+          <entry count="32">f0_885</entry>
+          <entry count="10">f0_908</entry>
+          <entry count="25">f0_920</entry>
+          <entry count="51">f0_967</entry>
+          <entry count="23">f0_983</entry>
+          <entry count="11">f0_1000</entry>
+          <entry count="18">f0_1172</entry>
+          <entry count="10">f0_1199</entry>
+          <entry count="26">f0_1241</entry>
+          <entry count="8">f0_1285</entry>
+          <entry count="6">f0_1307</entry>
+          <entry count="6">f0_1334</entry>
+          <entry count="11">f0_1341</entry>
+          <entry count="10">f0_1374</entry>
+          <entry count="9">f0_1391</entry>
+          <entry count="9">f0_1398</entry>
+          <entry count="25">f0_1410</entry>
+          <entry count="9">f0_1441</entry>
+          <entry count="9">f0_1448</entry>
+        </attribute>
+        <attribute name="capital" type="text" count="1279"/>
+        <attribute name="population" type="integer" count="1455" min="0" max="1.39112288E8"/>
+        <attribute name="area" type="integer" count="1424" min="0" max="3.379683E6"/>
+        <element name="city" type="text" count="2590">
+          <attribute name="id" type="text" count="2590"/>
+          <attribute name="country" type="category" count="2590">
+            <entry count="9">f0_149</entry>
+            <entry count="12">f0_162</entry>
+            <entry count="11">f0_184</entry>
+            <entry count="17">f0_208</entry>
+            <entry count="39">f0_213</entry>
+            <entry count="87">f0_220</entry>
+            <entry count="1">f0_232</entry>
+            <entry count="25">f0_251</entry>
+            <entry count="21">f0_268</entry>
+            <entry count="26">f0_325</entry>
+            <entry count="22">f0_332</entry>
+            <entry count="61">f0_337</entry>
+            <entry count="10">f0_344</entry>
+            <entry count="41">f0_351</entry>
+            <entry count="174">f0_358</entry>
+            <entry count="58">f0_385</entry>
+            <entry count="27">f0_397</entry>
+            <entry count="28">f0_404</entry>
+            <entry count="32">f0_411</entry>
+            <entry count="175">f0_418</entry>
+            <entry count="14">f0_461</entry>
+            <entry count="309">f0_475</entry>
+            <entry count="99">f0_492</entry>
+            <entry count="49">f0_505</entry>
+            <entry count="20">f0_512</entry>
+            <entry count="6">f0_519</entry>
+            <entry count="49">f0_526</entry>
+            <entry count="26">f0_538</entry>
+            <entry count="21">f0_585</entry>
+            <entry count="23">f0_649</entry>
+            <entry count="5">f0_656</entry>
+            <entry count="10">f0_663</entry>
+            <entry count="80">f0_670</entry>
+            <entry count="5">f0_677</entry>
+            <entry count="18">f0_693</entry>
+            <entry count="42">f0_733</entry>
+            <entry count="190">f0_765</entry>
+            <entry count="40">f0_777</entry>
+            <entry count="50">f0_794</entry>
+            <entry count="7">f0_801</entry>
+            <entry count="16">f0_808</entry>
+            <entry count="14">f0_830</entry>
+            <entry count="24">f0_868</entry>
+            <entry count="74">f0_885</entry>
+            <entry count="11">f0_908</entry>
+            <entry count="30">f0_920</entry>
+            <entry count="238">f0_967</entry>
+            <entry count="33">f0_983</entry>
+            <entry count="18">f0_1000</entry>
+            <entry count="18">f0_1172</entry>
+            <entry count="10">f0_1199</entry>
+            <entry count="35">f0_1241</entry>
+            <entry count="16">f0_1285</entry>
+            <entry count="7">f0_1307</entry>
+            <entry count="12">f0_1341</entry>
+            <entry count="10">f0_1374</entry>
+            <entry count="14">f0_1391</entry>
+            <entry count="14">f0_1398</entry>
+            <entry count="25">f0_1410</entry>
+            <entry count="19">f0_1441</entry>
+            <entry count="13">f0_1448</entry>
+          </attribute>
+          <attribute name="province" type="text" count="2590"/>
+          <attribute name="longitude" type="double" count="571" min="-165" max="153.033"/>
+          <attribute name="latitude" type="double" count="571" min="-54.5" max="70.5"/>
+          <element name="name" type="none" count="2661">
+            <text type="text" count="2661"/>
+          </element>
+          <element name="population" type="none" count="2413">
+            <attribute name="year" type="integer" count="2413" min="81" max="96"/>
+            <text type="integer" count="2413" min="706" max="9.925891E6"/>
+          </element>
+          <element name="located_at" type="none" count="160">
+            <attribute name="type" type="category" count="160">
+              <entry count="22">lake</entry>
+              <entry count="87">sea</entry>
+              <entry count="51">river</entry>
+            </attribute>
+            <attribute name="water" type="category" count="160">
+              <entry count="1">f0_39123</entry>
+              <entry count="2">f0_39278</entry>
+              <entry count="1">f0_39112</entry>
+              <entry count="14">f0_38203</entry>
+              <entry count="2">f0_39119</entry>
+              <entry count="1">f0_38322 f0_38328</entry>
+              <entry count="1">f0_39126</entry>
+              <entry count="1">f0_38314</entry>
+              <entry count="1">f0_38318</entry>
+              <entry count="2">f0_38719</entry>
+              <entry count="4">f0_38042</entry>
+              <entry count="2">f0_38724</entry>
+              <entry count="1">f0_38729</entry>
+              <entry count="1">f0_38734</entry>
+              <entry count="1">f0_38703</entry>
+              <entry count="1">f0_38506</entry>
+              <entry count="2">f0_38689</entry>
+              <entry count="2">f0_38512</entry>
+              <entry count="12">f0_38020</entry>
+              <entry count="2">f0_39075</entry>
+              <entry count="7">f0_38308</entry>
+              <entry count="1">f0_38380</entry>
+              <entry count="1">f0_38531</entry>
+              <entry count="1">f0_38494</entry>
+              <entry count="1">f0_38214</entry>
+              <entry count="1">f0_38376</entry>
+              <entry count="1">f0_39083</entry>
+              <entry count="1">f0_39003</entry>
+              <entry count="2">f0_38340</entry>
+              <entry count="3">f0_38336</entry>
+              <entry count="1">f0_39067</entry>
+              <entry count="2">f0_39071</entry>
+              <entry count="1">f0_38332</entry>
+              <entry count="1">f0_38361</entry>
+              <entry count="1">f0_38555</entry>
+              <entry count="1">f0_38014</entry>
+              <entry count="2">f0_39031</entry>
+              <entry count="12">f0_38161</entry>
+              <entry count="6">f0_38238</entry>
+              <entry count="1">f0_38233</entry>
+              <entry count="1">f0_38227</entry>
+              <entry count="21">f0_38068</entry>
+              <entry count="3">f0_38265</entry>
+              <entry count="10">f0_38596</entry>
+              <entry count="1">f0_39390</entry>
+              <entry count="1">f0_39335</entry>
+              <entry count="2">f0_38780</entry>
+              <entry count="2">f0_38743</entry>
+              <entry count="1">f0_38755</entry>
+              <entry count="1">f0_38785</entry>
+              <entry count="1">f0_39321</entry>
+              <entry count="5">f0_38751</entry>
+              <entry count="2">f0_38739</entry>
+              <entry count="1">f0_39330</entry>
+              <entry count="1">f0_38739 f0_38751</entry>
+              <entry count="1">f0_38790</entry>
+              <entry count="1">f0_39343</entry>
+              <entry count="1">f0_39009</entry>
+              <entry count="1">f0_39290</entry>
+              <entry count="1">f0_38037</entry>
+              <entry count="1">f0_38261</entry>
+            </attribute>
+          </element>
+        </element>
+      </element>
+      <element name="languages" type="none" count="116">
+        <attribute name="percentage" type="double" count="116" min="1" max="100"/>
+        <text type="category" count="116">
+          <entry count="5">German</entry>
+          <entry count="8">French</entry>
+          <entry count="2">Dutch</entry>
+          <entry count="5">Serbo-Croatian</entry>
+          <entry count="1">Bulgarian</entry>
+          <entry count="2">Swedish</entry>
+          <entry count="1">Finnish</entry>
+          <entry count="1">Hungarian</entry>
+          <entry count="1">Icelandic</entry>
+          <entry count="2">Albanian</entry>
+          <entry count="1">Macedonian</entry>
+          <entry count="2">Turkish</entry>
+          <entry count="1">Norwegian</entry>
+          <entry count="1">Polish</entry>
+          <entry count="4">Portuguese</entry>
+          <entry count="6">Russian</entry>
+          <entry count="2">Italian</entry>
+          <entry count="1">Slovenian</entry>
+          <entry count="1">Catalan</entry>
+          <entry count="1">Galician</entry>
+          <entry count="1">Basque</entry>
+          <entry count="1">Romansch</entry>
+          <entry count="1">Turkic</entry>
+          <entry count="2">Pashtu</entry>
+          <entry count="1">Afghan Persian</entry>
+          <entry count="3">Armenian</entry>
+          <entry count="2">Azeri</entry>
+          <entry count="1">Burmese</entry>
+          <entry count="1">Georgian</entry>
+          <entry count="1">Hindi</entry>
+          <entry count="1">Baloch</entry>
+          <entry count="1">Kurdish</entry>
+          <entry count="3">Arabic</entry>
+          <entry count="1">Luri</entry>
+          <entry count="1">Persian Persian</entry>
+          <entry count="1">Turkic Turkic</entry>
+          <entry count="1">Japanese</entry>
+          <entry count="1">Kazak</entry>
+          <entry count="1">Korean</entry>
+          <entry count="1">Khalkha Mongol</entry>
+          <entry count="1">Nepali</entry>
+          <entry count="1">Urdu</entry>
+          <entry count="1">Punjabi</entry>
+          <entry count="1">Sindhi</entry>
+          <entry count="1">Balochi</entry>
+          <entry count="1">Hindko</entry>
+          <entry count="1">Brahui</entry>
+          <entry count="1">Siraiki</entry>
+          <entry count="19">English</entry>
+          <entry count="1">Tamil</entry>
+          <entry count="1">Sinhala</entry>
+          <entry count="2">Uzbek</entry>
+          <entry count="1">Turkmen</entry>
+          <entry count="1">Tajik</entry>
+          <entry count="6">Spanish</entry>
+          <entry count="1">Indian</entry>
+          <entry count="1">Bambara</entry>
+          <entry count="1">Afrikaans</entry>
+        </text>
+      </element>
+    </element>
+    <element name="organization" type="text" count="168">
+      <attribute name="id" type="text" count="168"/>
+      <attribute name="name" type="text" count="168"/>
+      <attribute name="abbrev" type="text" count="168"/>
+      <attribute name="established" type="text" count="158"/>
+      <attribute name="headq" type="category" count="102">
+        <entry count="10">f0_1477</entry>
+        <entry count="8">f0_1510</entry>
+        <entry count="1">f0_1924</entry>
+        <entry count="1">f0_1941</entry>
+        <entry count="1">f0_2229</entry>
+        <entry count="1">f0_2132</entry>
+        <entry count="1">f0_2190</entry>
+        <entry count="1">f0_1807</entry>
+        <entry count="1">f0_1774</entry>
+        <entry count="1">f0_1764</entry>
+        <entry count="2">f0_1690</entry>
+        <entry count="1">f0_1990</entry>
+        <entry count="1">f0_5622</entry>
+        <entry count="1">f0_1907</entry>
+        <entry count="1">f0_2115</entry>
+        <entry count="1">f0_2124</entry>
+        <entry count="1">f0_1913</entry>
+        <entry count="1">f0_1905</entry>
+        <entry count="1">f0_1533</entry>
+        <entry count="1">f0_1776</entry>
+        <entry count="4">f0_1639</entry>
+        <entry count="1">f0_1474</entry>
+        <entry count="2">f0_1712</entry>
+        <entry count="1">f0_2420</entry>
+        <entry count="1">f0_2251</entry>
+        <entry count="1">f0_1792</entry>
+        <entry count="2">f0_2142</entry>
+        <entry count="16">f0_5628</entry>
+        <entry count="1">f0_1862</entry>
+        <entry count="1">f0_2145</entry>
+        <entry count="1">f0_16646</entry>
+        <entry count="1">f0_1694</entry>
+        <entry count="1">f0_1563</entry>
+        <entry count="4">f0_1544</entry>
+        <entry count="1">f0_1771</entry>
+        <entry count="1">f0_2130</entry>
+        <entry count="6">f0_1467</entry>
+        <entry count="1">f0_12778</entry>
+        <entry count="1">f0_2550</entry>
+        <entry count="1">f0_5646</entry>
+        <entry count="1">f0_1979</entry>
+        <entry count="1">f0_1976</entry>
+        <entry count="1">f0_1622</entry>
+        <entry count="1">f0_1507</entry>
+        <entry count="1">f0_1952</entry>
+        <entry count="1">f0_1751</entry>
+        <entry count="1">f0_2040</entry>
+        <entry count="1">f0_2010</entry>
+        <entry count="1">f0_2225</entry>
+        <entry count="1">f0_2098</entry>
+        <entry count="1">f0_1827</entry>
+        <entry count="1">f0_1779</entry>
+        <entry count="1">f0_1704</entry>
+        <entry count="1">f0_1627</entry>
+        <entry count="1">f0_2245</entry>
+        <entry count="1">f0_1493</entry>
+        <entry count="1">f0_1614</entry>
+      </attribute>
+      <element name="members" type="none" count="7505">
+        <attribute name="type" type="category" count="7505">
+          <entry count="6683">member</entry>
+          <entry count="110">regional member</entry>
+          <entry count="46">nonregional member</entry>
+          <entry count="24">Part I</entry>
+          <entry count="133">Part II</entry>
+          <entry count="21">Category I</entry>
+          <entry count="12">Category II</entry>
+          <entry count="124">Category III</entry>
+          <entry count="192">National Olympic Committee</entry>
+          <entry count="160">National Society</entry>
+        </attribute>
+        <attribute name="country" type="text" count="7505"/>
+      </element>
+    </element>
+    <element name="mountain" type="text" count="88">
+      <attribute name="id" type="category" count="88">
+        <entry count="1">f0_36835</entry>
+        <entry count="1">f0_36842</entry>
+        <entry count="1">f0_36846</entry>
+        <entry count="1">f0_36849</entry>
+        <entry count="1">f0_36853</entry>
+        <entry count="1">f0_36858</entry>
+        <entry count="1">f0_36862</entry>
+        <entry count="1">f0_36866</entry>
+        <entry count="1">f0_36870</entry>
+        <entry count="1">f0_36874</entry>
+        <entry count="1">f0_36879</entry>
+        <entry count="1">f0_36883</entry>
+        <entry count="1">f0_36887</entry>
+        <entry count="1">f0_36891</entry>
+        <entry count="1">f0_36895</entry>
+        <entry count="1">f0_36899</entry>
+        <entry count="1">f0_36903</entry>
+        <entry count="1">f0_36908</entry>
+        <entry count="1">f0_36913</entry>
+        <entry count="1">f0_36917</entry>
+        <entry count="1">f0_36921</entry>
+        <entry count="1">f0_36925</entry>
+        <entry count="1">f0_36929</entry>
+        <entry count="1">f0_36933</entry>
+        <entry count="1">f0_36938</entry>
+        <entry count="1">f0_36943</entry>
+        <entry count="1">f0_36947</entry>
+        <entry count="1">f0_36951</entry>
+        <entry count="1">f0_36955</entry>
+        <entry count="1">f0_36959</entry>
+        <entry count="1">f0_36963</entry>
+        <entry count="1">f0_36967</entry>
+        <entry count="1">f0_36971</entry>
+        <entry count="1">f0_36975</entry>
+        <entry count="1">f0_36979</entry>
+        <entry count="1">f0_36983</entry>
+        <entry count="1">f0_36987</entry>
+        <entry count="1">f0_36991</entry>
+        <entry count="1">f0_36995</entry>
+        <entry count="1">f0_36999</entry>
+        <entry count="1">f0_37003</entry>
+        <entry count="1">f0_37007</entry>
+        <entry count="1">f0_37011</entry>
+        <entry count="1">f0_37015</entry>
+        <entry count="1">f0_37019</entry>
+        <entry count="1">f0_37023</entry>
+        <entry count="1">f0_37027</entry>
+        <entry count="1">f0_37031</entry>
+        <entry count="1">f0_37036</entry>
+        <entry count="1">f0_37041</entry>
+        <entry count="1">f0_37045</entry>
+        <entry count="1">f0_37049</entry>
+        <entry count="1">f0_37053</entry>
+        <entry count="1">f0_37057</entry>
+        <entry count="1">f0_37061</entry>
+        <entry count="1">f0_37065</entry>
+        <entry count="1">f0_37069</entry>
+        <entry count="1">f0_37073</entry>
+        <entry count="1">f0_37077</entry>
+        <entry count="1">f0_37081</entry>
+        <entry count="1">f0_37085</entry>
+        <entry count="1">f0_37089</entry>
+        <entry count="1">f0_37092</entry>
+        <entry count="1">f0_37096</entry>
+        <entry count="1">f0_37100</entry>
+        <entry count="1">f0_37104</entry>
+        <entry count="1">f0_37108</entry>
+        <entry count="1">f0_37112</entry>
+        <entry count="1">f0_37116</entry>
+        <entry count="1">f0_37120</entry>
+        <entry count="1">f0_37124</entry>
+        <entry count="1">f0_37128</entry>
+        <entry count="1">f0_37132</entry>
+        <entry count="1">f0_37136</entry>
+        <entry count="1">f0_37140</entry>
+        <entry count="1">f0_37144</entry>
+        <entry count="1">f0_37148</entry>
+        <entry count="1">f0_37152</entry>
+        <entry count="1">f0_37156</entry>
+        <entry count="1">f0_37160</entry>
+        <entry count="1">f0_37164</entry>
+        <entry count="1">f0_37168</entry>
+        <entry count="1">f0_37172</entry>
+        <entry count="1">f0_37176</entry>
+        <entry count="1">f0_37180</entry>
+        <entry count="1">f0_37184</entry>
+        <entry count="1">f0_37189</entry>
+        <entry count="1">f0_37193</entry>
+      </attribute>
+      <attribute name="name" type="category" count="88">
+        <entry count="1">Kilimanjaro</entry>
+        <entry count="1">Cathkin Peak</entry>
+        <entry count="1">Kenia</entry>
+        <entry count="1">Jezerce</entry>
+        <entry count="1">Korab</entry>
+        <entry count="1">Kebnekaise</entry>
+        <entry count="1">Sarektjokko</entry>
+        <entry count="1">Portefjaellen</entry>
+        <entry count="1">Tarrekaise</entry>
+        <entry count="1">Sulitjelma</entry>
+        <entry count="1">Galdhoeppig</entry>
+        <entry count="1">Jostedalsbre</entry>
+        <entry count="1">Glittertind</entry>
+        <entry count="1">Joekul</entry>
+        <entry count="1">Snoehetta</entry>
+        <entry count="1">Pik Kommunizma</entry>
+        <entry count="1">Pik Pobeda</entry>
+        <entry count="1">Pik Lenina</entry>
+        <entry count="1">Pik Chan-Tengri</entry>
+        <entry count="1">Pik Revoluzija</entry>
+        <entry count="1">Pik Moskva</entry>
+        <entry count="1">Pik Karl-Marx</entry>
+        <entry count="1">Elbrus</entry>
+        <entry count="1">Kasbek</entry>
+        <entry count="1">Bjelucha</entry>
+        <entry count="1">Oeraefajoekull</entry>
+        <entry count="1">Snoefell</entry>
+        <entry count="1">Haltiatunturi</entry>
+        <entry count="1">Mauna Kea</entry>
+        <entry count="1">Mt McKinley</entry>
+        <entry count="1">Humphreys Peak</entry>
+        <entry count="1">Mt Whitney</entry>
+        <entry count="1">Mt Elbert</entry>
+        <entry count="1">Borah Peak</entry>
+        <entry count="1">Granite Peak</entry>
+        <entry count="1">Mt Washington</entry>
+        <entry count="1">Boundary Peak</entry>
+        <entry count="1">Mt Mitchell</entry>
+        <entry count="1">Mt Hood</entry>
+        <entry count="1">Harney Peak</entry>
+        <entry count="1">Clingmans Dome</entry>
+        <entry count="1">Guadalupe Peak</entry>
+        <entry count="1">Kings Peak</entry>
+        <entry count="1">Mt Rainier</entry>
+        <entry count="1">Gannett Peak</entry>
+        <entry count="1">Mt Robson</entry>
+        <entry count="1">Mt Aylmer</entry>
+        <entry count="1">Citlaltepetl</entry>
+        <entry count="1">Popocatepetl</entry>
+        <entry count="1">Nevado de Toluca</entry>
+        <entry count="1">Nevado de Colima</entry>
+        <entry count="1">Damavand</entry>
+        <entry count="1">Sabalan</entry>
+        <entry count="1">Tubhal</entry>
+        <entry count="1">Djebel Aures</entry>
+        <entry count="1">Tahat</entry>
+        <entry count="1">Emi Kussi</entry>
+        <entry count="1">Jabal Marra</entry>
+        <entry count="1">Tamgak</entry>
+        <entry count="1">Ras Daschan</entry>
+        <entry count="1">Fako</entry>
+        <entry count="1">Meru</entry>
+        <entry count="1">Mpika</entry>
+        <entry count="1">Mt-Grebun</entry>
+        <entry count="1">Fuji-Yama</entry>
+        <entry count="1">Hotaka-Dake</entry>
+        <entry count="1">Mount Everest</entry>
+        <entry count="1">Mount Godwin Austen</entry>
+        <entry count="1">Tahan</entry>
+        <entry count="1">Leuser</entry>
+        <entry count="1">Semeru</entry>
+        <entry count="1">Pulog</entry>
+        <entry count="1">Kinabalu</entry>
+        <entry count="1">Mount Morrison</entry>
+        <entry count="1">Feldberg</entry>
+        <entry count="1">Grosser Arber</entry>
+        <entry count="1">Zugspitze</entry>
+        <entry count="1">Grossglockner</entry>
+        <entry count="1">Montblanc</entry>
+        <entry count="1">Aconcagua</entry>
+        <entry count="1">Blue Mountain Peak</entry>
+        <entry count="1">Huascaran</entry>
+        <entry count="1">Chimborazo</entry>
+        <entry count="1">Pico Duarte</entry>
+        <entry count="1">Illampu</entry>
+        <entry count="1">Llullaillaco</entry>
+        <entry count="1">Mt. Kosciuszko</entry>
+        <entry count="1">Mt. Bogong</entry>
+      </attribute>
+      <attribute name="longitude" type="double" count="88" min="-155.3" max="148"/>
+      <attribute name="latitude" type="double" count="88" min="-37" max="67.5"/>
+      <attribute name="height" type="integer" count="88" min="1328" max="8848"/>
+      <element name="located" type="none" count="27">
+        <attribute name="country" type="category" count="27">
+          <entry count="2">f0_1410</entry>
+          <entry count="1">f0_1391</entry>
+          <entry count="1">f0_1285</entry>
+          <entry count="5">f0_397</entry>
+          <entry count="3">f0_656</entry>
+          <entry count="1">f0_358</entry>
+          <entry count="2">f0_885</entry>
+          <entry count="2">f0_505</entry>
+          <entry count="1">f0_1398</entry>
+          <entry count="1">f0_1199</entry>
+          <entry count="1">f0_1448</entry>
+          <entry count="4">f0_526</entry>
+          <entry count="2">f0_585</entry>
+          <entry count="1">f0_920</entry>
+        </attribute>
+        <attribute name="province" type="category" count="27">
+          <entry count="1">f0_20031</entry>
+          <entry count="1">f0_19999</entry>
+          <entry count="1">f0_19929</entry>
+          <entry count="5">f0_18150</entry>
+          <entry count="3">f0_18809</entry>
+          <entry count="1">f0_18034</entry>
+          <entry count="1">f0_19613</entry>
+          <entry count="1">f0_19602</entry>
+          <entry count="1">f0_18599</entry>
+          <entry count="1">f0_18571</entry>
+          <entry count="1">f0_20015</entry>
+          <entry count="1">f0_19883</entry>
+          <entry count="1">f0_20030</entry>
+          <entry count="1">f0_20093</entry>
+          <entry count="1">f0_18670</entry>
+          <entry count="1">f0_18674</entry>
+          <entry count="1">f0_18672</entry>
+          <entry count="1">f0_18673</entry>
+          <entry count="1">f0_18743</entry>
+          <entry count="1">f0_18748</entry>
+          <entry count="1">f0_19650</entry>
+        </attribute>
+      </element>
+    </element>
+    <element name="desert" type="text" count="30">
+      <attribute name="id" type="category" count="30">
+        <entry count="1">f0_37198</entry>
+        <entry count="1">f0_37202</entry>
+        <entry count="1">f0_37206</entry>
+        <entry count="1">f0_37211</entry>
+        <entry count="1">f0_37216</entry>
+        <entry count="1">f0_37221</entry>
+        <entry count="1">f0_37225</entry>
+        <entry count="1">f0_37229</entry>
+        <entry count="1">f0_37234</entry>
+        <entry count="1">f0_37239</entry>
+        <entry count="1">f0_37243</entry>
+        <entry count="1">f0_37248</entry>
+        <entry count="1">f0_37253</entry>
+        <entry count="1">f0_37257</entry>
+        <entry count="1">f0_37263</entry>
+        <entry count="1">f0_37267</entry>
+        <entry count="1">f0_37271</entry>
+        <entry count="1">f0_37275</entry>
+        <entry count="1">f0_37279</entry>
+        <entry count="1">f0_37283</entry>
+        <entry count="1">f0_37288</entry>
+        <entry count="1">f0_37293</entry>
+        <entry count="1">f0_37298</entry>
+        <entry count="1">f0_37304</entry>
+        <entry count="1">f0_37308</entry>
+        <entry count="1">f0_37312</entry>
+        <entry count="1">f0_37316</entry>
+        <entry count="1">f0_37320</entry>
+        <entry count="1">f0_37324</entry>
+        <entry count="1">f0_37329</entry>
+      </attribute>
+      <attribute name="name" type="category" count="30">
+        <entry count="1">Gibson Desert</entry>
+        <entry count="1">Tanami</entry>
+        <entry count="1">Simpson Desert</entry>
+        <entry count="1">Karakum</entry>
+        <entry count="1">Kysylkum</entry>
+        <entry count="1">Mujunkum</entry>
+        <entry count="1">Atacama</entry>
+        <entry count="1">Grand Victoria Desert</entry>
+        <entry count="1">Grand Sand Desert</entry>
+        <entry count="1">Grand Erg Ouest</entry>
+        <entry count="1">Grand Erg Est</entry>
+        <entry count="1">Hamada el-Hamra</entry>
+        <entry count="1">Fesan</entry>
+        <entry count="1">Libyan Desert</entry>
+        <entry count="1">Erg Rebiana</entry>
+        <entry count="1">Arabian Desert</entry>
+        <entry count="1">Nubian Desert</entry>
+        <entry count="1">Erg de Bilma</entry>
+        <entry count="1">Tenere</entry>
+        <entry count="1">Tanesruft</entry>
+        <entry count="1">Asauad</entry>
+        <entry count="1">Erg Schesch</entry>
+        <entry count="1">Erg Igidi</entry>
+        <entry count="1">Uaran</entry>
+        <entry count="1">Trarza</entry>
+        <entry count="1">Makteir</entry>
+        <entry count="1">Sagia el-Hamra</entry>
+        <entry count="1">Dschurab</entry>
+        <entry count="1">Hamada du Draa</entry>
+        <entry count="1">Kalahari</entry>
+      </attribute>
+      <attribute name="area" type="integer" count="25" min="15000" max="300000"/>
+      <element name="located" type="none" count="9">
+        <attribute name="country" type="category" count="9">
+          <entry count="2">f0_538</entry>
+          <entry count="3">f0_1241</entry>
+          <entry count="3">f0_1398</entry>
+          <entry count="1">f0_1391</entry>
+        </attribute>
+        <attribute name="province" type="category" count="9">
+          <entry count="1">f0_18723</entry>
+          <entry count="1">f0_18732</entry>
+          <entry count="1">f0_19887</entry>
+          <entry count="1">f0_19893</entry>
+          <entry count="1">f0_20015</entry>
+          <entry count="1">f0_20023</entry>
+          <entry count="1">f0_19885</entry>
+          <entry count="1">f0_20025</entry>
+          <entry count="1">f0_20007</entry>
+        </attribute>
+      </element>
+    </element>
+    <element name="island" type="text" count="184">
+      <attribute name="id" type="text" count="184"/>
+      <attribute name="name" type="text" count="184"/>
+      <attribute name="area" type="double" count="85" min="8" max="2.1756E6"/>
+      <element name="located" type="none" count="85">
+        <attribute name="country" type="category" count="85">
+          <entry count="6">f0_1307</entry>
+          <entry count="46">f0_526</entry>
+          <entry count="3">f0_358</entry>
+          <entry count="13">f0_808</entry>
+          <entry count="11">f0_385</entry>
+          <entry count="3">f0_344</entry>
+          <entry count="3">f0_505</entry>
+        </attribute>
+        <attribute name="province" type="category" count="85">
+          <entry count="1">f0_19940</entry>
+          <entry count="1">f0_19941</entry>
+          <entry count="1">f0_19942</entry>
+          <entry count="1">f0_19943</entry>
+          <entry count="1">f0_19944</entry>
+          <entry count="1">f0_19945</entry>
+          <entry count="1">f0_18699</entry>
+          <entry count="1">f0_18700</entry>
+          <entry count="1">f0_18701</entry>
+          <entry count="1">f0_18702</entry>
+          <entry count="1">f0_18703</entry>
+          <entry count="1">f0_18704</entry>
+          <entry count="1">f0_18705</entry>
+          <entry count="1">f0_18693</entry>
+          <entry count="1">f0_18694</entry>
+          <entry count="1">f0_18696</entry>
+          <entry count="1">f0_18698</entry>
+          <entry count="1">f0_18645</entry>
+          <entry count="1">f0_18646</entry>
+          <entry count="1">f0_18648</entry>
+          <entry count="1">f0_18650</entry>
+          <entry count="1">f0_18651</entry>
+          <entry count="1">f0_18652</entry>
+          <entry count="1">f0_18653</entry>
+          <entry count="1">f0_18655</entry>
+          <entry count="1">f0_18657</entry>
+          <entry count="1">f0_18659</entry>
+          <entry count="1">f0_18661</entry>
+          <entry count="1">f0_18662</entry>
+          <entry count="1">f0_18663</entry>
+          <entry count="1">f0_18665</entry>
+          <entry count="1">f0_18666</entry>
+          <entry count="1">f0_18667</entry>
+          <entry count="1">f0_18669</entry>
+          <entry count="1">f0_18670</entry>
+          <entry count="1">f0_18672</entry>
+          <entry count="1">f0_18673</entry>
+          <entry count="1">f0_18674</entry>
+          <entry count="1">f0_18675</entry>
+          <entry count="1">f0_18677</entry>
+          <entry count="1">f0_18679</entry>
+          <entry count="1">f0_18681</entry>
+          <entry count="1">f0_18682</entry>
+          <entry count="1">f0_18683</entry>
+          <entry count="1">f0_18685</entry>
+          <entry count="1">f0_18686</entry>
+          <entry count="1">f0_18687</entry>
+          <entry count="1">f0_18688</entry>
+          <entry count="1">f0_18690</entry>
+          <entry count="1">f0_18691</entry>
+          <entry count="1">f0_18692</entry>
+          <entry count="1">f0_18643</entry>
+          <entry count="1">f0_18094</entry>
+          <entry count="1">f0_18090</entry>
+          <entry count="1">f0_18078</entry>
+          <entry count="1">f0_19514</entry>
+          <entry count="1">f0_19515</entry>
+          <entry count="1">f0_19516</entry>
+          <entry count="1">f0_19519</entry>
+          <entry count="1">f0_19521</entry>
+          <entry count="1">f0_19522</entry>
+          <entry count="1">f0_19523</entry>
+          <entry count="1">f0_19525</entry>
+          <entry count="1">f0_19527</entry>
+          <entry count="1">f0_19528</entry>
+          <entry count="1">f0_19529</entry>
+          <entry count="1">f0_19530</entry>
+          <entry count="1">f0_19531</entry>
+          <entry count="4">f0_18102</entry>
+          <entry count="7">f0_18106</entry>
+          <entry count="2">f0_17865</entry>
+          <entry count="1">f0_17862</entry>
+          <entry count="2">f0_18580</entry>
+          <entry count="1">f0_18585</entry>
+        </attribute>
+      </element>
+    </element>
+    <element name="river" type="text" count="135">
+      <attribute name="id" type="text" count="135"/>
+      <attribute name="length" type="integer" count="93" min="74" max="6518"/>
+      <attribute name="name" type="text" count="135"/>
+      <element name="to" type="none" count="136">
+        <attribute name="type" type="category" count="136">
+          <entry count="68">sea</entry>
+          <entry count="60">river</entry>
+          <entry count="8">lake</entry>
+        </attribute>
+        <attribute name="water" type="category" count="136">
+          <entry count="7">f0_38020</entry>
+          <entry count="3">f0_38042</entry>
+          <entry count="19">f0_38068</entry>
+          <entry count="3">f0_38135</entry>
+          <entry count="8">f0_38261</entry>
+          <entry count="8">f0_38161</entry>
+          <entry count="3">f0_38185</entry>
+          <entry count="9">f0_38203</entry>
+          <entry count="3">f0_38219</entry>
+          <entry count="2">f0_38227</entry>
+          <entry count="1">f0_38238</entry>
+          <entry count="2">f0_38278</entry>
+          <entry count="1">f0_38287</entry>
+          <entry count="1">f0_38308</entry>
+          <entry count="1">f0_38328</entry>
+          <entry count="1">f0_38336</entry>
+          <entry count="2">f0_38351</entry>
+          <entry count="8">f0_38380</entry>
+          <entry count="4">f0_38391</entry>
+          <entry count="2">f0_38426</entry>
+          <entry count="2">f0_38396</entry>
+          <entry count="2">f0_38441</entry>
+          <entry count="2">f0_38406</entry>
+          <entry count="2">f0_38376</entry>
+          <entry count="2">f0_38494</entry>
+          <entry count="1">f0_38506</entry>
+          <entry count="2">f0_38524</entry>
+          <entry count="2">f0_38542</entry>
+          <entry count="1">f0_38535</entry>
+          <entry count="1">f0_38214</entry>
+          <entry count="1">f0_38572</entry>
+          <entry count="3">f0_38596</entry>
+          <entry count="2">f0_38639</entry>
+          <entry count="1">f0_38651</entry>
+          <entry count="1">f0_38673</entry>
+          <entry count="1">f0_38698</entry>
+          <entry count="2">f0_38703</entry>
+          <entry count="2">f0_38743</entry>
+          <entry count="2">f0_38739</entry>
+          <entry count="1">f0_38805</entry>
+          <entry count="3">f0_38037</entry>
+          <entry count="3">f0_38821</entry>
+          <entry count="2">f0_38842</entry>
+          <entry count="2">f0_38250</entry>
+          <entry count="2">f0_38898</entry>
+          <entry count="1">f0_38970</entry>
+          <entry count="1">f0_38933</entry>
+          <entry count="1">f0_38981</entry>
+        </attribute>
+      </element>
+      <element name="located" type="none" count="237">
+        <attribute name="country" type="category" count="237">
+          <entry count="5">f0_1241</entry>
+          <entry count="16">f0_1398</entry>
+          <entry count="19">f0_1172</entry>
+          <entry count="26">f0_1441</entry>
+          <entry count="11">f0_1341</entry>
+          <entry count="4">f0_1410</entry>
+          <entry count="10">f0_1448</entry>
+          <entry count="56">f0_358</entry>
+          <entry count="2">f0_1374</entry>
+          <entry count="1">f0_794</entry>
+          <entry count="1">f0_920</entry>
+          <entry count="2">f0_397</entry>
+          <entry count="2">f0_538</entry>
+          <entry count="2">f0_184</entry>
+          <entry count="7">f0_251</entry>
+          <entry count="12">f0_351</entry>
+          <entry count="18">f0_337</entry>
+          <entry count="2">f0_656</entry>
+          <entry count="2">f0_670</entry>
+          <entry count="2">f0_526</entry>
+          <entry count="7">f0_983</entry>
+          <entry count="2">f0_325</entry>
+          <entry count="8">f0_404</entry>
+          <entry count="4">f0_505</entry>
+          <entry count="5">f0_1199</entry>
+          <entry count="4">f0_1285</entry>
+          <entry count="7">f0_1391</entry>
+        </attribute>
+        <attribute name="province" type="text" count="237"/>
+      </element>
+    </element>
+    <element name="sea" type="text" count="22">
+      <attribute name="id" type="category" count="22">
+        <entry count="1">f0_38020</entry>
+        <entry count="1">f0_38042</entry>
+        <entry count="1">f0_38068</entry>
+        <entry count="1">f0_38161</entry>
+        <entry count="1">f0_38203</entry>
+        <entry count="1">f0_38308</entry>
+        <entry count="1">f0_38380</entry>
+        <entry count="1">f0_38524</entry>
+        <entry count="1">f0_38572</entry>
+        <entry count="1">f0_38596</entry>
+        <entry count="1">f0_38639</entry>
+        <entry count="1">f0_38651</entry>
+        <entry count="1">f0_38673</entry>
+        <entry count="1">f0_38743</entry>
+        <entry count="1">f0_38805</entry>
+        <entry count="1">f0_38991</entry>
+        <entry count="1">f0_38997</entry>
+        <entry count="1">f0_39003</entry>
+        <entry count="1">f0_39009</entry>
+        <entry count="1">f0_39031</entry>
+        <entry count="1">f0_39036</entry>
+        <entry count="1">f0_39047</entry>
+      </attribute>
+      <attribute name="name" type="category" count="22">
+        <entry count="1">North Sea</entry>
+        <entry count="1">Mediterranean Sea</entry>
+        <entry count="1">Atlantic Ocean</entry>
+        <entry count="1">Indian Ocean</entry>
+        <entry count="1">Baltic Sea</entry>
+        <entry count="1">Norwegian Sea</entry>
+        <entry count="1">Arctic Ocean</entry>
+        <entry count="1">Black Sea</entry>
+        <entry count="1">Sea of Azov</entry>
+        <entry count="1">Pacific Ocean</entry>
+        <entry count="1">Yellow Sea</entry>
+        <entry count="1">East China Sea</entry>
+        <entry count="1">South China Sea</entry>
+        <entry count="1">Gulf of Mexico</entry>
+        <entry count="1">Persian Gulf</entry>
+        <entry count="1">Sunda Sea</entry>
+        <entry count="1">Arabian Sea</entry>
+        <entry count="1">Sea of Japan</entry>
+        <entry count="1">Caribbean Sea</entry>
+        <entry count="1">Irish Sea</entry>
+        <entry count="1">Red Sea</entry>
+        <entry count="1">Gulf of Aden</entry>
+      </attribute>
+      <attribute name="depth" type="integer" count="22" min="100" max="11034"/>
+      <element name="located" type="none" count="253">
+        <attribute name="country" type="category" count="253">
+          <entry count="5">f0_325</entry>
+          <entry count="8">f0_332</entry>
+          <entry count="6">f0_385</entry>
+          <entry count="6">f0_519</entry>
+          <entry count="23">f0_670</entry>
+          <entry count="10">f0_1241</entry>
+          <entry count="10">f0_344</entry>
+          <entry count="22">f0_808</entry>
+          <entry count="12">f0_983</entry>
+          <entry count="7">f0_1172</entry>
+          <entry count="3">f0_1199</entry>
+          <entry count="6">f0_1374</entry>
+          <entry count="4">f0_1391</entry>
+          <entry count="1">f0_1441</entry>
+          <entry count="13">f0_585</entry>
+          <entry count="1">f0_1285</entry>
+          <entry count="6">f0_1307</entry>
+          <entry count="8">f0_1341</entry>
+          <entry count="5">f0_1410</entry>
+          <entry count="5">f0_337</entry>
+          <entry count="12">f0_358</entry>
+          <entry count="2">f0_351</entry>
+          <entry count="31">f0_526</entry>
+          <entry count="11">f0_794</entry>
+          <entry count="3">f0_801</entry>
+          <entry count="6">f0_868</entry>
+          <entry count="10">f0_908</entry>
+          <entry count="10">f0_920</entry>
+          <entry count="5">f0_505</entry>
+          <entry count="1">f0_512</entry>
+          <entry count="1">f0_1398</entry>
+        </attribute>
+        <attribute name="province" type="text" count="253"/>
+      </element>
+    </element>
+    <element name="lake" type="text" count="92">
+      <attribute name="id" type="category" count="92">
+        <entry count="1">f0_38219</entry>
+        <entry count="1">f0_38287</entry>
+        <entry count="1">f0_38336</entry>
+        <entry count="1">f0_38542</entry>
+        <entry count="1">f0_38698</entry>
+        <entry count="1">f0_39053</entry>
+        <entry count="1">f0_39058</entry>
+        <entry count="1">f0_39062</entry>
+        <entry count="1">f0_39067</entry>
+        <entry count="1">f0_39071</entry>
+        <entry count="1">f0_39075</entry>
+        <entry count="1">f0_39079</entry>
+        <entry count="1">f0_39083</entry>
+        <entry count="1">f0_39086</entry>
+        <entry count="1">f0_39090</entry>
+        <entry count="1">f0_39094</entry>
+        <entry count="1">f0_39098</entry>
+        <entry count="1">f0_39103</entry>
+        <entry count="1">f0_39108</entry>
+        <entry count="1">f0_39112</entry>
+        <entry count="1">f0_39115</entry>
+        <entry count="1">f0_39119</entry>
+        <entry count="1">f0_39123</entry>
+        <entry count="1">f0_39126</entry>
+        <entry count="1">f0_39129</entry>
+        <entry count="1">f0_39133</entry>
+        <entry count="1">f0_39137</entry>
+        <entry count="1">f0_39141</entry>
+        <entry count="1">f0_39145</entry>
+        <entry count="1">f0_39150</entry>
+        <entry count="1">f0_39154</entry>
+        <entry count="1">f0_39158</entry>
+        <entry count="1">f0_39162</entry>
+        <entry count="1">f0_39166</entry>
+        <entry count="1">f0_39170</entry>
+        <entry count="1">f0_39174</entry>
+        <entry count="1">f0_39178</entry>
+        <entry count="1">f0_39182</entry>
+        <entry count="1">f0_39186</entry>
+        <entry count="1">f0_39190</entry>
+        <entry count="1">f0_39195</entry>
+        <entry count="1">f0_39200</entry>
+        <entry count="1">f0_39205</entry>
+        <entry count="1">f0_39209</entry>
+        <entry count="1">f0_39213</entry>
+        <entry count="1">f0_39219</entry>
+        <entry count="1">f0_39223</entry>
+        <entry count="1">f0_39227</entry>
+        <entry count="1">f0_39231</entry>
+        <entry count="1">f0_39236</entry>
+        <entry count="1">f0_39240</entry>
+        <entry count="1">f0_39245</entry>
+        <entry count="1">f0_39249</entry>
+        <entry count="1">f0_39253</entry>
+        <entry count="1">f0_39258</entry>
+        <entry count="1">f0_39262</entry>
+        <entry count="1">f0_39266</entry>
+        <entry count="1">f0_39270</entry>
+        <entry count="1">f0_39274</entry>
+        <entry count="1">f0_39278</entry>
+        <entry count="1">f0_39282</entry>
+        <entry count="1">f0_39287</entry>
+        <entry count="1">f0_39290</entry>
+        <entry count="1">f0_39293</entry>
+        <entry count="1">f0_39298</entry>
+        <entry count="1">f0_39303</entry>
+        <entry count="1">f0_39307</entry>
+        <entry count="1">f0_39311</entry>
+        <entry count="1">f0_39315</entry>
+        <entry count="1">f0_39321</entry>
+        <entry count="1">f0_39325</entry>
+        <entry count="1">f0_39330</entry>
+        <entry count="1">f0_39335</entry>
+        <entry count="1">f0_39339</entry>
+        <entry count="1">f0_39343</entry>
+        <entry count="1">f0_39346</entry>
+        <entry count="1">f0_39351</entry>
+        <entry count="1">f0_39355</entry>
+        <entry count="1">f0_39359</entry>
+        <entry count="1">f0_39364</entry>
+        <entry count="1">f0_39368</entry>
+        <entry count="1">f0_39373</entry>
+        <entry count="1">f0_39378</entry>
+        <entry count="1">f0_39382</entry>
+        <entry count="1">f0_39386</entry>
+        <entry count="1">f0_39390</entry>
+        <entry count="1">f0_39393</entry>
+        <entry count="1">f0_39397</entry>
+        <entry count="1">f0_39401</entry>
+        <entry count="1">f0_39405</entry>
+        <entry count="1">f0_39409</entry>
+        <entry count="1">f0_39413</entry>
+      </attribute>
+      <attribute name="name" type="category" count="92">
+        <entry count="1">Caspian Sea</entry>
+        <entry count="1">Tschadsee</entry>
+        <entry count="1">Vaenern</entry>
+        <entry count="1">Ozero Aral</entry>
+        <entry count="1">Bodensee</entry>
+        <entry count="1">Lake Prespa</entry>
+        <entry count="1">Lake Skutari</entry>
+        <entry count="1">Lake Ohrid</entry>
+        <entry count="1">Vaettern</entry>
+        <entry count="1">Maelaren</entry>
+        <entry count="1">Mjoesen</entry>
+        <entry count="1">Ozero Ladoga</entry>
+        <entry count="1">Ozero Baikal</entry>
+        <entry count="1">Ozero Balchash</entry>
+        <entry count="1">Ozero Onega</entry>
+        <entry count="1">Ozero Taimyr</entry>
+        <entry count="1">Ozero Chanka</entry>
+        <entry count="1">Ozero Pskovskoje</entry>
+        <entry count="1">Ozero Tschany</entry>
+        <entry count="1">Lake Kalla</entry>
+        <entry count="1">Inari</entry>
+        <entry count="1">Lake Saima</entry>
+        <entry count="1">Lake Naesi</entry>
+        <entry count="1">Lake Ori</entry>
+        <entry count="1">Lago di Garda </entry>
+        <entry count="1">Lake Amadeus</entry>
+        <entry count="1">Disappointment-Lake</entry>
+        <entry count="1">Lake Torren</entry>
+        <entry count="1">Lake Nasser</entry>
+        <entry count="1">Lake Volta</entry>
+        <entry count="1">Lake Tana</entry>
+        <entry count="1">Lake Assale</entry>
+        <entry count="1">Lake Kainji</entry>
+        <entry count="1">Lake Abaya</entry>
+        <entry count="1">Lake Stephanie</entry>
+        <entry count="1">Lake Suat</entry>
+        <entry count="1">Lake Rudolph</entry>
+        <entry count="1">Lake Albert</entry>
+        <entry count="1">Lake Kioga</entry>
+        <entry count="1">Lake Victoria</entry>
+        <entry count="1">Lake Eduard</entry>
+        <entry count="1">Lake Kivu</entry>
+        <entry count="1">Lake Tumba</entry>
+        <entry count="1">Lake Leopold-II</entry>
+        <entry count="1">Lake Tanganjika</entry>
+        <entry count="1">Lake Rukwa</entry>
+        <entry count="1">Lake Natron</entry>
+        <entry count="1">Lake Eyasi</entry>
+        <entry count="1">Lake Mweru</entry>
+        <entry count="1">Lake Bangweulu</entry>
+        <entry count="1">Lake Nyasa</entry>
+        <entry count="1">Lake Chilwa</entry>
+        <entry count="1">Lake Cabora-Bassa</entry>
+        <entry count="1">Lake Kariba</entry>
+        <entry count="1">Lake Ngami</entry>
+        <entry count="1">Lake Etoscha</entry>
+        <entry count="1">Lake Makarikari</entry>
+        <entry count="1">Issyk-Kul</entry>
+        <entry count="1">Arresee</entry>
+        <entry count="1">Paeijaenne</entry>
+        <entry count="1">Lake Titicaca</entry>
+        <entry count="1">Lake Nicaragua</entry>
+        <entry count="1">Lake Maracaibo</entry>
+        <entry count="1">Lac Leman</entry>
+        <entry count="1">Lago Maggiore</entry>
+        <entry count="1">Lago di Como</entry>
+        <entry count="1">Lake Mackay</entry>
+        <entry count="1">Lake Eyre</entry>
+        <entry count="1">Lake Superior</entry>
+        <entry count="1">Lake Michigan</entry>
+        <entry count="1">Lake Huron</entry>
+        <entry count="1">Lake Erie</entry>
+        <entry count="1">Lake Ontario</entry>
+        <entry count="1">Lake Okeechobee</entry>
+        <entry count="1">Great Salt Lake</entry>
+        <entry count="1">Kentucky Lake</entry>
+        <entry count="1">Chicamauga Lake</entry>
+        <entry count="1">Lake Winnipesaukee</entry>
+        <entry count="1">Lake Tahoe</entry>
+        <entry count="1">F.D.R. Lake</entry>
+        <entry count="1">Lake Powell</entry>
+        <entry count="1">Lake Meade</entry>
+        <entry count="1">Lake Winnipeg</entry>
+        <entry count="1">Lake Nipigon</entry>
+        <entry count="1">Lake Williston</entry>
+        <entry count="1">Great Slave Lake</entry>
+        <entry count="1">Great Bear Lake</entry>
+        <entry count="1">Lago de Chapala</entry>
+        <entry count="1">Lake Urumiyeh</entry>
+        <entry count="1">Daryacheh ye Namak</entry>
+        <entry count="1">Hamun e Jaz Murian</entry>
+        <entry count="1">Barrage de Mbakaou</entry>
+      </attribute>
+      <attribute name="area" type="double" count="67" min="40.2" max="424200"/>
+      <element name="located" type="none" count="61">
+        <attribute name="country" type="category" count="61">
+          <entry count="1">f0_397</entry>
+          <entry count="6">f0_404</entry>
+          <entry count="10">f0_358</entry>
+          <entry count="4">f0_538</entry>
+          <entry count="3">f0_1241</entry>
+          <entry count="1">f0_1398</entry>
+          <entry count="4">f0_1285</entry>
+          <entry count="10">f0_1410</entry>
+          <entry count="5">f0_1441</entry>
+          <entry count="5">f0_1448</entry>
+          <entry count="2">f0_1341</entry>
+          <entry count="1">f0_920</entry>
+          <entry count="3">f0_983</entry>
+          <entry count="5">f0_505</entry>
+          <entry count="1">f0_1199</entry>
+        </attribute>
+        <attribute name="province" type="category" count="61">
+          <entry count="1">f0_18155</entry>
+          <entry count="2">f0_18199</entry>
+          <entry count="1">f0_18207</entry>
+          <entry count="2">f0_17933</entry>
+          <entry count="2">f0_17947</entry>
+          <entry count="1">f0_18066</entry>
+          <entry count="1">f0_18074</entry>
+          <entry count="1">f0_18729</entry>
+          <entry count="1">f0_18732</entry>
+          <entry count="1">f0_18733</entry>
+          <entry count="1">f0_18734</entry>
+          <entry count="1">f0_17939</entry>
+          <entry count="1">f0_18072</entry>
+          <entry count="1">f0_18084</entry>
+          <entry count="1">f0_18058</entry>
+          <entry count="1">f0_19885</entry>
+          <entry count="1">f0_19893</entry>
+          <entry count="1">f0_19910</entry>
+          <entry count="1">f0_20023</entry>
+          <entry count="1">f0_19929</entry>
+          <entry count="1">f0_19936</entry>
+          <entry count="1">f0_19934</entry>
+          <entry count="1">f0_19938</entry>
+          <entry count="1">f0_20055</entry>
+          <entry count="1">f0_20057</entry>
+          <entry count="1">f0_20058</entry>
+          <entry count="3">f0_20081</entry>
+          <entry count="2">f0_20047</entry>
+          <entry count="2">f0_20049</entry>
+          <entry count="1">f0_20052</entry>
+          <entry count="2">f0_20083</entry>
+          <entry count="2">f0_20093</entry>
+          <entry count="2">f0_20030</entry>
+          <entry count="2">f0_20090</entry>
+          <entry count="1">f0_19973</entry>
+          <entry count="1">f0_19977</entry>
+          <entry count="1">f0_20097</entry>
+          <entry count="1">f0_19676</entry>
+          <entry count="1">f0_19803</entry>
+          <entry count="1">f0_19815</entry>
+          <entry count="1">f0_19818</entry>
+          <entry count="1">f0_18213</entry>
+          <entry count="1">f0_18215</entry>
+          <entry count="1">f0_18209</entry>
+          <entry count="1">f0_18569</entry>
+          <entry count="1">f0_18571</entry>
+          <entry count="1">f0_18604</entry>
+          <entry count="1">f0_18588</entry>
+          <entry count="1">f0_18602</entry>
+          <entry count="1">f0_19866</entry>
+        </attribute>
+      </element>
+    </element>
+  </element>
+</document-node>

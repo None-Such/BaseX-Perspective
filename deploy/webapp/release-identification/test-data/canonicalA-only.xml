@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canonical content-type="repertoire-release" purpose="compare-definitively">
+   <provider-manifest provider="Warner">
+      <message-id>CB173BC197420BB3E04400144FEAB9A6</message-id>
+      <message-language>en</message-language>
+      <message-intent>UpdateMessage</message-intent>
+   </provider-manifest>
+   <release type="single">
+      <upc>054391977304</upc>
+      <grid>A10302B0001573246C</grid>
+      <title>Give Me Your Hand [Best Song Ever]</title>
+      <artists>The Ready Set</artists>
+      <label>Warner Brothers</label>
+      <date-originated>2012-05-18</date-originated>
+      <genre>Pop</genre>
+   </release>
+   <recording>
+      <isrc>USRE11200088</isrc>
+      <title>Give Me Your Hand [Best Song Ever]</title>
+      <artists>The Ready Set</artists>
+      <label>Sire/Reprise; Warner Brothers</label>
+      <component>1</component>
+      <position>1</position>
+      <duration>228.093</duration>
+      <genre>Pop</genre>
+   </recording>
+</canonical>
