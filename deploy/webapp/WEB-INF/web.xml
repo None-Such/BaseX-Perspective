@@ -71,11 +71,11 @@
   </servlet-mapping>
 
   <!-- WebDAV Service (can be deactivated by removing this entry) -->
+  <!--
   <servlet>
     <servlet-name>WebDAV</servlet-name>
     <servlet-class>org.basex.http.webdav.WebDAVServlet</servlet-class>
     <load-on-startup>1</load-on-startup>
-    <!-- service-specific credentials
     <init-param>
       <param-name>org.basex.user</param-name>
       <param-value/>
@@ -84,12 +84,12 @@
       <param-name>org.basex.password</param-name>
       <param-value/>
     </init-param>
-    -->
   </servlet>
   <servlet-mapping>
     <servlet-name>WebDAV</servlet-name>
     <url-pattern>/webdav/*</url-pattern>
   </servlet-mapping>
+  -->
 
   <!-- REST Service (can be deactivated by removing this entry) -->
   <servlet>
