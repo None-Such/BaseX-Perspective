@@ -11,7 +11,6 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <jettyVersion>8.1.4.v20120524</jettyVersion>
-    <basexDir>${user.home}</basexDir>
   </properties>
   <repositories>
     <repository>
@@ -133,12 +132,6 @@
           <!-- Key and port for stopping Jetty -->
           <stopKey>keyToStopJetty</stopKey>
           <stopPort>8987</stopPort>
-          <systemProperties>
-            <systemProperty>
-              <name>org.basex.path</name>
-              <value>${basexDir}</value>
-            </systemProperty>
-          </systemProperties>
         </configuration>
 
       </plugin>
